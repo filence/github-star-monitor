@@ -1,6 +1,247 @@
 {
   "global": {
-    "last_success_at": null
+    "last_success_at": "2026-05-28T08:26:51.318Z"
   },
-  "repos": {}
+  "repos": {
+    "Hmbown/CodeWhale": {
+      "full_name": "Hmbown/CodeWhale",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "colbymchenry/codegraph": {
+      "full_name": "colbymchenry/codegraph",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "fathah/hermes-desktop": {
+      "full_name": "fathah/hermes-desktop",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "NousResearch/hermes-agent": {
+      "full_name": "NousResearch/hermes-agent",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "liliMozi/openhanako": {
+      "full_name": "liliMozi/openhanako",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "nextlevelbuilder/ui-ux-pro-max-skill": {
+      "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "crafter-station/petdex": {
+      "full_name": "crafter-station/petdex",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "borawong/AiMaMi": {
+      "full_name": "borawong/AiMaMi",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "NeuralNomadsAI/CodeNomad": {
+      "full_name": "NeuralNomadsAI/CodeNomad",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "luestr/ProxyResource": {
+      "full_name": "luestr/ProxyResource",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "icebear0828/codex-proxy": {
+      "full_name": "icebear0828/codex-proxy",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "BenedictKing/ccx": {
+      "full_name": "BenedictKing/ccx",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "ErlichLiu/Proma": {
+      "full_name": "ErlichLiu/Proma",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "edison7009/EchoBird": {
+      "full_name": "edison7009/EchoBird",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "BigPizzaV3/CodexPlusPlus": {
+      "full_name": "BigPizzaV3/CodexPlusPlus",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "tanweai/pua": {
+      "full_name": "tanweai/pua",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "tickernelz/opencode-mem": {
+      "full_name": "tickernelz/opencode-mem",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "supermemoryai/supermemory": {
+      "full_name": "supermemoryai/supermemory",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "alvinunreal/oh-my-opencode-slim": {
+      "full_name": "alvinunreal/oh-my-opencode-slim",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "anomalyco/opencode": {
+      "full_name": "anomalyco/opencode",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "openchamber/openchamber": {
+      "full_name": "openchamber/openchamber",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "lsdefine/GenericAgent": {
+      "full_name": "lsdefine/GenericAgent",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "deepseek-ai/awesome-deepseek-agent": {
+      "full_name": "deepseek-ai/awesome-deepseek-agent",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "router-for-me/CLIProxyAPI": {
+      "full_name": "router-for-me/CLIProxyAPI",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "code-yeongyu/oh-my-openagent": {
+      "full_name": "code-yeongyu/oh-my-openagent",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "clash-verge-rev/clash-verge-rev": {
+      "full_name": "clash-verge-rev/clash-verge-rev",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "KKKKhazix/khazix-skills": {
+      "full_name": "KKKKhazix/khazix-skills",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "multica-ai/andrej-karpathy-skills": {
+      "full_name": "multica-ai/andrej-karpathy-skills",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "thedotmack/claude-mem": {
+      "full_name": "thedotmack/claude-mem",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "luongnv89/claude-howto": {
+      "full_name": "luongnv89/claude-howto",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "Yeachan-Heo/oh-my-claudecode": {
+      "full_name": "Yeachan-Heo/oh-my-claudecode",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "lonr-6/cc-desktop-switch": {
+      "full_name": "lonr-6/cc-desktop-switch",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "mksglu/context-mode": {
+      "full_name": "mksglu/context-mode",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "zilliztech/claude-context": {
+      "full_name": "zilliztech/claude-context",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "Lordog/dive-into-llms": {
+      "full_name": "Lordog/dive-into-llms",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "farion1231/cc-switch": {
+      "full_name": "farion1231/cc-switch",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "anthropics/skills": {
+      "full_name": "anthropics/skills",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "affaan-m/ECC": {
+      "full_name": "affaan-m/ECC",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "obra/superpowers": {
+      "full_name": "obra/superpowers",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "eze-is/web-access": {
+      "full_name": "eze-is/web-access",
+      "tracked_since": "2026-05-28T08:26:51.318Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    }
+  }
 }
