@@ -173,3 +173,10 @@ GitHub Actions 的 `schedule` 使用 `UTC`。
 - 如果 Telegram 消息发送到一半失败，本次 workflow 会失败，下一次重跑时可能重复发送本次部分消息
 - 目前只监控 GitHub Release，不监控 commit、issue、pull request
 - 目前每个仓库只发 1 条详情消息；如果同一个仓库在一次检查周期内有多个新 Release，会合并到同一条消息里
+
+## 当前部署记录
+
+- 仓库地址：`https://github.com/filence/github-star-monitor`
+- 已配置 Secrets：`GH_STAR_MONITOR_TOKEN`、`TELEGRAM_BOT_TOKEN`、`TELEGRAM_CHAT_ID`
+- 当前通知策略：`SEND_EMPTY_SUMMARY=true`，即使当天没有更新也会发送总览消息
+- 首次成功运行时间：北京时间 `2026-05-28 16:33:31`，对应 UTC `2026-05-28T08:33:31.974Z`
