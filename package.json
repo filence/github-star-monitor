@@ -1,0 +1,10 @@
+{
+  "name": "github-star-release-telegram-monitor",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/main.js",
+    "check": "node --check src/main.js && node --check src/github.js && node --check src/state.js && node --check src/telegram.js && node --check src/format.js"
+  }
+}
