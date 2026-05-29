@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-05-29T02:14:56.569Z"
+    "last_success_at": "2026-05-29T05:10:29.226Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -90,8 +90,8 @@
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": null,
-      "last_notified_release_published_at": null
+      "last_notified_release_id": 331252739,
+      "last_notified_release_published_at": "2026-05-29T02:59:59Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -144,8 +144,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 330900226,
-      "last_notified_release_published_at": "2026-05-28T14:31:25Z"
+      "last_notified_release_id": 331262783,
+      "last_notified_release_published_at": "2026-05-29T03:32:51Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
