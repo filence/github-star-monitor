@@ -35,7 +35,15 @@ jobs:
           GH_STAR_MONITOR_TOKEN: ${{ secrets.GH_STAR_MONITOR_TOKEN }}
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
           SEND_EMPTY_SUMMARY: ${{ vars.SEND_EMPTY_SUMMARY || 'false' }}
+          LLM_ENABLED: ${{ vars.LLM_ENABLED || 'false' }}
+          LLM_PROVIDER: ${{ vars.LLM_PROVIDER || 'deepseek' }}
+          DEEPSEEK_BASE_URL: ${{ vars.DEEPSEEK_BASE_URL || 'https://api.deepseek.com' }}
+          DEEPSEEK_MODEL: ${{ vars.DEEPSEEK_MODEL || 'deepseek-chat' }}
+          LLM_TIMEOUT_MS: ${{ vars.LLM_TIMEOUT_MS || '20000' }}
+          LLM_TEMPERATURE: ${{ vars.LLM_TEMPERATURE || '0.2' }}
+          LLM_MAX_NOTES_CHARS: ${{ vars.LLM_MAX_NOTES_CHARS || '12000' }}
         run: npm start
 
       - name: Commit updated state

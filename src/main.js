@@ -2,27 +2,8 @@ import { listRepositoryReleases, listStarredRepositories } from "./github.js";
 import { buildOverviewMessage, buildRepoUpdateMessage } from "./format.js";
 import { loadState, saveState, statePath } from "./state.js";
 import { sendTelegramMessage } from "./telegram.js";
-
-const REQUIRED_ENV_NAMES = [
-  "GH_STAR_MONITOR_TOKEN",
-  "TELEGRAM_BOT_TOKEN",
-  "TELEGRAM_CHAT_ID"
-];
-
-function getRequiredEnv() {
-  const missingNames = REQUIRED_ENV_NAMES.filter((name) => !process.env[name]);
-
-  if (missingNames.length > 0) {
-    throw new Error(`缺少必要环境变量: ${missingNames.join(", ")}`);
-  }
-
-  return {
-    githubToken: process.env.GH_STAR_MONITOR_TOKEN,
-    telegramBotToken: process.env.TELEGRAM_BOT_TOKEN,
-    telegramChatId: process.env.TELEGRAM_CHAT_ID,
-    sendEmptySummary: process.env.SEND_EMPTY_SUMMARY === "true"
-  };
-}
+import { getAppConfig } from "./config.js";
+import { enrichOverview, enrichRepoUpdate } from "./ai/service.js";
 
 function isPublishedAfter(value, cutoff) {
   return new Date(value).getTime() > new Date(cutoff).getTime();
@@ -98,14 +79,14 @@ async function collectUpdates({ githubToken, state, nowIso }) {
 }
 
 async function run() {
-  const { githubToken, telegramBotToken, telegramChatId, sendEmptySummary } = getRequiredEnv();
+  const config = getAppConfig();
   const nowIso = new Date().toISOString();
   const state = await loadState();
 
   console.log(`状态文件: ${statePath}`);
 
   const { updates, newTrackedRepos, removedTrackedRepos, starredRepositories } = await collectUpdates({
-    githubToken,
+    githubToken: config.githubToken,
     state,
     nowIso
   });
@@ -118,25 +99,41 @@ async function run() {
   console.log(`今日新 Release 数: ${totalReleaseCount}`);
 
   if (updates.length > 0) {
+    const overviewInsight = await enrichOverview({
+      llmConfig: config.llm,
+      generatedAt: nowIso,
+      updates
+    });
+    console.log(
+      `[AI][overview] final mode: ${overviewInsight ? "enhanced" : "fallback"}`
+    );
     const overviewMessage = buildOverviewMessage({
       generatedAt: nowIso,
       updatedRepoCount: updates.length,
       totalReleaseCount,
       newTrackedCount: newTrackedRepos.length,
-      repoNames: updates.map((item) => item.fullName)
+      repoNames: updates.map((item) => item.fullName),
+      insight: overviewInsight
     });
 
     await sendTelegramMessage({
-      botToken: telegramBotToken,
-      chatId: telegramChatId,
+      botToken: config.telegramBotToken,
+      chatId: config.telegramChatId,
       text: overviewMessage
     });
 
     for (const update of updates) {
-      const detailMessage = buildRepoUpdateMessage(update);
+      const repoInsight = await enrichRepoUpdate({
+        llmConfig: config.llm,
+        update
+      });
+      console.log(
+        `[AI][repo:${update.fullName}] final mode: ${repoInsight ? "enhanced" : "fallback"}`
+      );
+      const detailMessage = buildRepoUpdateMessage(update, repoInsight);
       await sendTelegramMessage({
-        botToken: telegramBotToken,
-        chatId: telegramChatId,
+        botToken: config.telegramBotToken,
+        chatId: config.telegramChatId,
         text: detailMessage
       });
     }
@@ -147,18 +144,19 @@ async function run() {
       state.repos[update.fullName].last_notified_release_published_at =
         latestRelease.publishedAt;
     }
-  } else if (sendEmptySummary) {
+  } else if (config.sendEmptySummary) {
     const overviewMessage = buildOverviewMessage({
       generatedAt: nowIso,
       updatedRepoCount: 0,
       totalReleaseCount: 0,
       newTrackedCount: newTrackedRepos.length,
-      repoNames: []
+      repoNames: [],
+      insight: null
     });
 
     await sendTelegramMessage({
-      botToken: telegramBotToken,
-      chatId: telegramChatId,
+      botToken: config.telegramBotToken,
+      chatId: config.telegramChatId,
       text: overviewMessage
     });
   }
