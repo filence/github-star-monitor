@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-05-29T01:26:31.514Z"
+    "last_success_at": "2026-05-29T02:14:56.569Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -72,8 +72,8 @@
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 330955671,
-      "last_notified_release_published_at": "2026-05-28T16:28:55Z"
+      "last_notified_release_id": 331234850,
+      "last_notified_release_published_at": "2026-05-29T02:04:37Z"
     },
     "ErlichLiu/Proma": {
       "full_name": "ErlichLiu/Proma",
