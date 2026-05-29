@@ -2,6 +2,9 @@ const TELEGRAM_MESSAGE_LIMIT = 4096;
 const TELEGRAM_SAFE_LIMIT = 3500;
 const DEFAULT_SUMMARY_MAX_LINES = 8;
 const DEFAULT_SUMMARY_MAX_CHARS = 900;
+const DEFAULT_AI_SUMMARY_MAX_CHARS = 260;
+const DEFAULT_AI_TITLE_MAX_CHARS = 120;
+const DEFAULT_AI_HIGHLIGHT_MAX_CHARS = 90;
 
 function escapeHtml(value) {
   return String(value)
@@ -51,6 +54,10 @@ function formatPrereleaseFlag(isPrerelease) {
   return isPrerelease ? "是" : "否";
 }
 
+function formatHighlightedLines(lines) {
+  return lines.map((line) => `- ${line}`);
+}
+
 function buildReleaseSection(release) {
   const summary = escapeHtml(summarizeReleaseNotes(release.body));
   const title = escapeHtml(
@@ -71,23 +78,68 @@ function buildReleaseSection(release) {
   ].join("\n");
 }
 
+function buildAiReleaseSection(release, enhancedRelease) {
+  const originalTitle = escapeHtml(
+    truncatePlainText(release.name || release.tagName || "未命名 Release", 200)
+  );
+  const titleZh = escapeHtml(
+    truncatePlainText(enhancedRelease.title_zh || "（无中文标题）", DEFAULT_AI_TITLE_MAX_CHARS)
+  );
+  const publishedAt = escapeHtml(toBeijingDateTime(release.publishedAt));
+  const releaseUrl = escapeHtml(release.htmlUrl);
+  const summaryZh = escapeHtml(
+    truncatePlainText(enhancedRelease.summary_zh || "（无中文摘要）", DEFAULT_AI_SUMMARY_MAX_CHARS)
+  );
+  const highlights = Array.isArray(enhancedRelease.highlights_zh)
+    ? enhancedRelease.highlights_zh
+        .map((item) => escapeHtml(truncatePlainText(item, DEFAULT_AI_HIGHLIGHT_MAX_CHARS)))
+        .filter(Boolean)
+        .slice(0, 3)
+    : [];
+
+  const lines = [
+    `• <b>原始标题：</b>${originalTitle}`,
+    `• <b>中文标题：</b>${titleZh}`,
+    `发布时间：${publishedAt}`,
+    `Pre-release：${formatPrereleaseFlag(release.isPrerelease)}`,
+    `链接：<a href="${releaseUrl}">打开 Release</a>`,
+    "中文摘要：",
+    summaryZh
+  ];
+
+  if (highlights.length > 0) {
+    lines.push("关键点：", ...formatHighlightedLines(highlights));
+  }
+
+  return lines.join("\n");
+}
+
 export function buildOverviewMessage({
   generatedAt,
   updatedRepoCount,
   totalReleaseCount,
   newTrackedCount,
-  repoNames
+  repoNames,
+  insight = null
 }) {
   const generatedAtText = escapeHtml(toBeijingDateTime(generatedAt));
   const baseLines = [
-    "<b>GitHub 星标 Release 日报</b>",
+    "<b>📣 GitHub 星标 Release 日报</b>",
     `生成时间：${generatedAtText}`,
     `更新仓库数：${updatedRepoCount}`,
     `新 Release 数：${totalReleaseCount}`,
-    `新增纳入跟踪：${newTrackedCount}`,
-    "",
-    "<b>今日有更新的仓库</b>"
+    `新增纳入跟踪：${newTrackedCount}`
   ];
+
+  if (insight?.summary_zh) {
+    baseLines.push(
+      "",
+      "<b>今日更新概括</b>",
+      escapeHtml(truncatePlainText(insight.summary_zh, 300))
+    );
+  }
+
+  baseLines.push("", "<b>今日有更新的仓库</b>");
 
   if (repoNames.length === 0) {
     return [...baseLines, "• 无"].join("\n");
@@ -115,15 +167,22 @@ export function buildOverviewMessage({
   return [...baseLines, ...repoLines].join("\n");
 }
 
-export function buildRepoUpdateMessage(update) {
+export function buildRepoUpdateMessage(update, insight = null) {
   const repoName = escapeHtml(truncatePlainText(update.fullName, 200));
   const repoUrl = escapeHtml(update.htmlUrl);
   const headerLines = [
-    `<b>${repoName}</b>`,
+    `<b>🚀 ${repoName}</b>`,
     `仓库链接：<a href="${repoUrl}">${repoName}</a>`,
-    `本次新增 Release：${update.releases.length}`,
-    ""
+    `本次新增 Release：${update.releases.length}`
   ];
+
+  if (insight?.repo_summary_zh) {
+    headerLines.push(
+      `本仓库更新概括：${escapeHtml(truncatePlainText(insight.repo_summary_zh, 180))}`
+    );
+  }
+
+  headerLines.push("");
 
   const sections = [];
   let currentLength = headerLines.join("\n").length;
@@ -131,7 +190,10 @@ export function buildRepoUpdateMessage(update) {
 
   for (let index = 0; index < update.releases.length; index += 1) {
     const release = update.releases[index];
-    const section = buildReleaseSection(release);
+    const enhancedRelease = insight?.releases?.find((item) => item.release_id === release.id);
+    const section = enhancedRelease
+      ? buildAiReleaseSection(release, enhancedRelease)
+      : buildReleaseSection(release);
     const separator = sections.length > 0 ? "\n\n──────────\n\n" : "";
     const nextChunk = `${separator}${section}`;
 

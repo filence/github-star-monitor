@@ -76,12 +76,29 @@ https://api.telegram.org/bot<你的BOT_TOKEN>/getUpdates
 - `GH_STAR_MONITOR_TOKEN`
 - `TELEGRAM_BOT_TOKEN`
 - `TELEGRAM_CHAT_ID`
+- `DEEPSEEK_API_KEY`（第二期启用智能增强时必填）
 
 可选变量：
 
 - `SEND_EMPTY_SUMMARY`
   - 设为 `true` 时，即使当天没有更新，也会发送一条总览消息
   - 默认不设置或设为 `false`
+- `LLM_ENABLED`
+  - 设为 `true` 时启用第二期智能增强
+  - 默认不设置或设为 `false`
+- `LLM_PROVIDER`
+  - 当前填 `deepseek`
+  - 默认值为 `deepseek`
+- `DEEPSEEK_BASE_URL`
+  - 默认值为 `https://api.deepseek.com`
+- `DEEPSEEK_MODEL`
+  - 默认值为 `deepseek-chat`
+- `LLM_TIMEOUT_MS`
+  - 单次模型调用超时，默认 `20000`
+- `LLM_TEMPERATURE`
+  - 默认 `0.2`
+- `LLM_MAX_NOTES_CHARS`
+  - 单次输入的 Release Notes 总字符保护上限，默认 `12000`
 
 ## 首次运行行为
 
@@ -109,6 +126,8 @@ https://api.telegram.org/bot<你的BOT_TOKEN>/getUpdates
 $env:GH_STAR_MONITOR_TOKEN="你的GitHubToken"
 $env:TELEGRAM_BOT_TOKEN="你的TelegramBotToken"
 $env:TELEGRAM_CHAT_ID="你的ChatId"
+$env:LLM_ENABLED="true"
+$env:DEEPSEEK_API_KEY="你的DeepSeekKey"
 ```
 
 然后执行：
@@ -137,18 +156,22 @@ GitHub Actions 的 `schedule` 使用 `UTC`。
 - 更新仓库数
 - 新 Release 数
 - 新增纳入跟踪数
+- 今日更新中文概括（第二期启用时）
 - 今日有更新的仓库列表
 
 ### 每仓库详情消息
 
 - 仓库名
+- 仓库级中文概括（第二期启用时）
 - 本次新增 Release 数
 - 每个 Release 的标题
+- 每个 Release 的中文标题（第二期启用时）
 - Tag
 - 发布时间
 - 是否为 pre-release
 - Release 链接
-- Release Notes 摘要
+- 中文摘要与关键点（第二期启用时）
+- 回退时仍使用第一期的 Release Notes 摘要
 
 摘要使用：
 
@@ -156,6 +179,20 @@ GitHub Actions 的 `schedule` 使用 `UTC`。
 - 最大字符数限制
 
 这样可以尽量避免 Telegram 单条消息过长。
+
+## 第二期智能增强说明
+
+当 `LLM_ENABLED=true` 时，程序会：
+
+- 先对“今日总览”调用一次 DeepSeek，总结今天这些更新主要在做什么
+- 再按仓库逐个调用 DeepSeek，生成仓库概括、中文标题、中文摘要和关键点
+- 在 Telegram 消息里加入 `📣` 和 `🚀` 图标头部，方便和其他 bot 区分
+
+当 DeepSeek 调用失败、超时、限流、返回非法 JSON 或字段不完整时：
+
+- 总览消息自动退回第一期格式
+- 单个仓库详情自动退回第一期格式
+- Telegram 发送继续执行，优先保证日报能发出去
 
 ## 状态文件说明
 
