@@ -3,6 +3,20 @@ import { createAiProvider } from "./provider.js";
 
 const MAX_RELEASE_BODY_CHARS = 3500;
 const DEBUG_TEXT_PREVIEW_CHARS = 220;
+const RELEASE_NOTES_STATUS = {
+  EMPTY: "empty",
+  PROVIDED: "provided",
+  TRUNCATED: "truncated"
+};
+const PRIORITY_RELEASE_SECTION_PATTERNS = [
+  /\bbreaking\s+changes?\b/i,
+  /\bfeatures?\b/i,
+  /\bbug\s+fixes?\b/i,
+  /\bfixes?\b/i,
+  /\bmigration\b/i,
+  /\bsecurity\b/i,
+  /\bimportant\s+notes?\b/i
+];
 
 function previewText(text, maxChars = DEBUG_TEXT_PREVIEW_CHARS) {
   return truncateText(String(text ?? "").replaceAll("\n", "\\n"), maxChars);
@@ -20,17 +34,136 @@ function normalizeReleaseBody(body) {
   return String(body ?? "").replaceAll("\r\n", "\n").trim();
 }
 
-function trimReleaseBody(body, maxChars) {
-  return truncateText(normalizeReleaseBody(body), maxChars);
+function getReleaseNotesStatus(body) {
+  return normalizeReleaseBody(body)
+    ? RELEASE_NOTES_STATUS.PROVIDED
+    : RELEASE_NOTES_STATUS.EMPTY;
+}
+
+function parseMarkdownSections(text) {
+  const lines = text.split("\n");
+  const sections = [];
+  let current = { title: "", lines: [] };
+
+  for (const line of lines) {
+    const headingMatch = line.match(/^(#{1,6})\s+(.+?)\s*#*\s*$/);
+
+    if (headingMatch) {
+      if (current.lines.length > 0) {
+        sections.push(current);
+      }
+
+      current = {
+        title: headingMatch[2].trim(),
+        lines: [line]
+      };
+      continue;
+    }
+
+    current.lines.push(line);
+  }
+
+  if (current.lines.length > 0) {
+    sections.push(current);
+  }
+
+  return sections.map((section) => ({
+    ...section,
+    text: section.lines.join("\n").trim()
+  })).filter((section) => section.text);
+}
+
+function appendWithinLimit(parts, text, maxChars) {
+  const normalizedText = String(text ?? "").trim();
+
+  if (!normalizedText || maxChars <= 0) {
+    return false;
+  }
+
+  const currentText = parts.join("\n\n");
+  const separatorLength = currentText ? 2 : 0;
+  const remaining = maxChars - currentText.length - separatorLength;
+
+  if (remaining <= 0) {
+    return false;
+  }
+
+  parts.push(truncateText(normalizedText, remaining));
+  return true;
+}
+
+function trimReleaseBodyWithPriority(body, maxChars) {
+  const normalized = normalizeReleaseBody(body);
+
+  if (!normalized || maxChars <= 0) {
+    return "";
+  }
+
+  if (normalized.length <= maxChars) {
+    return normalized;
+  }
+
+  const sections = parseMarkdownSections(normalized);
+  const selectedSections = [];
+  const selectedIndexes = new Set();
+
+  for (const pattern of PRIORITY_RELEASE_SECTION_PATTERNS) {
+    sections.forEach((section, index) => {
+      if (!selectedIndexes.has(index) && pattern.test(section.title)) {
+        selectedSections.push(section.text);
+        selectedIndexes.add(index);
+      }
+    });
+  }
+
+  if (selectedSections.length === 0) {
+    return truncateText(normalized, maxChars);
+  }
+
+  const parts = [];
+  selectedSections.forEach((sectionText) => appendWithinLimit(parts, sectionText, maxChars));
+
+  sections.forEach((section, index) => {
+    if (!selectedIndexes.has(index)) {
+      appendWithinLimit(parts, section.text, maxChars);
+    }
+  });
+
+  return parts.join("\n\n") || truncateText(normalized, maxChars);
+}
+
+function prepareReleaseBodyForPrompt(body, maxChars) {
+  const normalized = normalizeReleaseBody(body);
+
+  if (!normalized) {
+    return {
+      body: "",
+      releaseNotesStatus: RELEASE_NOTES_STATUS.EMPTY
+    };
+  }
+
+  const trimmedBody = trimReleaseBodyWithPriority(normalized, maxChars);
+
+  return {
+    body: trimmedBody,
+    releaseNotesStatus:
+      trimmedBody.length < normalized.length
+        ? RELEASE_NOTES_STATUS.TRUNCATED
+        : RELEASE_NOTES_STATUS.PROVIDED
+  };
 }
 
 function buildTrimmedUpdate(update, maxCharsPerRelease) {
   return {
     ...update,
-    releases: update.releases.map((release) => ({
-      ...release,
-      body: trimReleaseBody(release.body, maxCharsPerRelease)
-    }))
+    releases: update.releases.map((release) => {
+      const preparedBody = prepareReleaseBodyForPrompt(release.body, maxCharsPerRelease);
+
+      return {
+        ...release,
+        ...preparedBody
+      };
+    })
   };
 }
 
@@ -42,12 +175,21 @@ function buildTrimmedOverviewUpdates(updates, maxCharsPerRelease, maxNotesChars)
     releases: update.releases.map((release) => {
       const remaining = Math.max(0, maxNotesChars - consumed);
       const releaseLimit = Math.min(maxCharsPerRelease, remaining);
-      const body = releaseLimit > 0 ? trimReleaseBody(release.body, releaseLimit) : "";
-      consumed += body.length;
+      const preparedBody =
+        releaseLimit > 0
+          ? prepareReleaseBodyForPrompt(release.body, releaseLimit)
+          : {
+              body: "",
+              releaseNotesStatus: getReleaseNotesStatus(release.body) === RELEASE_NOTES_STATUS.EMPTY
+                ? RELEASE_NOTES_STATUS.EMPTY
+                : RELEASE_NOTES_STATUS.TRUNCATED
+            };
+
+      consumed += preparedBody.body.length;
 
       return {
         ...release,
-        body
+        ...preparedBody
       };
     })
   }));
@@ -126,13 +268,19 @@ function normalizeRepoInsight(parsed, update) {
       return {
         release_id: release.id,
         title_zh: matched.title_zh.trim(),
-        summary_zh: matched.summary_zh.trim(),
-        highlights_zh: Array.isArray(matched.highlights_zh)
-          ? matched.highlights_zh
-              .map((item) => String(item).trim())
-              .filter(Boolean)
-              .slice(0, 3)
-          : []
+        summary_zh:
+          getReleaseNotesStatus(release.body) === RELEASE_NOTES_STATUS.EMPTY
+            ? "作者未提供 Release Notes"
+            : matched.summary_zh.trim(),
+        highlights_zh:
+          getReleaseNotesStatus(release.body) === RELEASE_NOTES_STATUS.EMPTY
+            ? []
+            : Array.isArray(matched.highlights_zh)
+              ? matched.highlights_zh
+                  .map((item) => String(item).trim())
+                  .filter(Boolean)
+                  .slice(0, 3)
+              : []
       };
     })
   };
