@@ -1,19 +1,19 @@
 {
   "global": {
-    "last_success_at": "2026-05-31T05:14:56.960Z"
+    "last_success_at": "2026-06-01T05:57:10.004Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
       "full_name": "Hmbown/CodeWhale",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": null,
-      "last_notified_release_published_at": null
+      "last_notified_release_id": 332193556,
+      "last_notified_release_published_at": "2026-05-31T19:11:16Z"
     },
     "colbymchenry/codegraph": {
       "full_name": "colbymchenry/codegraph",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 331120944,
-      "last_notified_release_published_at": "2026-05-28T20:28:15Z"
+      "last_notified_release_id": 332236960,
+      "last_notified_release_published_at": "2026-06-01T00:22:31Z"
     },
     "fathah/hermes-desktop": {
       "full_name": "fathah/hermes-desktop",
@@ -30,8 +30,8 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 331902349,
-      "last_notified_release_published_at": "2026-05-30T08:47:41Z"
+      "last_notified_release_id": 332300593,
+      "last_notified_release_published_at": "2026-06-01T05:42:24Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -66,8 +66,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 331294165,
-      "last_notified_release_published_at": "2026-05-29T05:19:18Z"
+      "last_notified_release_id": 332139940,
+      "last_notified_release_published_at": "2026-05-31T13:56:54Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -84,8 +84,8 @@
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 331252739,
-      "last_notified_release_published_at": "2026-05-29T02:59:59Z"
+      "last_notified_release_id": 332263579,
+      "last_notified_release_published_at": "2026-06-01T02:49:00Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -138,8 +138,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 331939766,
-      "last_notified_release_published_at": "2026-05-30T13:22:31Z"
+      "last_notified_release_id": 332270770,
+      "last_notified_release_published_at": "2026-06-01T03:34:16Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -192,8 +192,8 @@
     "mksglu/context-mode": {
       "full_name": "mksglu/context-mode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": null,
-      "last_notified_release_published_at": null
+      "last_notified_release_id": 332231403,
+      "last_notified_release_published_at": "2026-05-31T23:38:29Z"
     },
     "zilliztech/claude-context": {
       "full_name": "zilliztech/claude-context",
@@ -246,8 +246,8 @@
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": null,
-      "last_notified_release_published_at": null
+      "last_notified_release_id": 332098761,
+      "last_notified_release_published_at": "2026-05-31T09:41:11Z"
     }
   }
 }
