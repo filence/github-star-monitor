@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-06-05T05:12:21.642Z"
+    "last_success_at": "2026-06-06T04:51:08.536Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -24,14 +24,14 @@
     "NousResearch/hermes-agent": {
       "full_name": "NousResearch/hermes-agent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 331536993,
-      "last_notified_release_published_at": "2026-05-29T13:37:26Z"
+      "last_notified_release_id": 335259097,
+      "last_notified_release_published_at": "2026-06-06T00:55:58Z"
     },
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 334679415,
-      "last_notified_release_published_at": "2026-06-05T00:53:55Z"
+      "last_notified_release_id": 335274118,
+      "last_notified_release_published_at": "2026-06-06T02:33:17Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -54,8 +54,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 334145989,
-      "last_notified_release_published_at": "2026-06-04T06:00:16Z"
+      "last_notified_release_id": 334737547,
+      "last_notified_release_published_at": "2026-06-05T05:23:30Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -66,8 +66,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 334186257,
-      "last_notified_release_published_at": "2026-06-04T07:52:49Z"
+      "last_notified_release_id": 335002296,
+      "last_notified_release_published_at": "2026-06-05T15:16:01Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -78,14 +78,14 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 334651339,
-      "last_notified_release_published_at": "2026-06-04T23:11:56Z"
+      "last_notified_release_id": 335232218,
+      "last_notified_release_published_at": "2026-06-05T23:14:38Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 334302217,
-      "last_notified_release_published_at": "2026-06-04T11:44:26Z"
+      "last_notified_release_id": 334794638,
+      "last_notified_release_published_at": "2026-06-05T07:41:45Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -114,14 +114,14 @@
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 334703990,
-      "last_notified_release_published_at": "2026-06-05T03:08:15Z"
+      "last_notified_release_id": 335006608,
+      "last_notified_release_published_at": "2026-06-05T15:58:51Z"
     },
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 333982368,
-      "last_notified_release_published_at": "2026-06-03T20:33:19Z"
+      "last_notified_release_id": 335072521,
+      "last_notified_release_published_at": "2026-06-05T17:45:25Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -240,14 +240,14 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 334121653,
-      "last_notified_release_published_at": "2026-06-04T04:36:33Z"
+      "last_notified_release_id": 334838124,
+      "last_notified_release_published_at": "2026-06-05T09:18:40Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": 333007308,
-      "last_notified_release_published_at": "2026-06-02T09:46:02Z"
+      "last_notified_release_id": 335293894,
+      "last_notified_release_published_at": "2026-06-06T04:46:13Z"
     },
     "alchaincyf/huashu-design": {
       "full_name": "alchaincyf/huashu-design",
