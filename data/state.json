@@ -1,13 +1,13 @@
 {
   "global": {
-    "last_success_at": "2026-06-08T05:26:55.794Z"
+    "last_success_at": "2026-06-09T05:00:18.357Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
       "full_name": "Hmbown/CodeWhale",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 334060331,
-      "last_notified_release_published_at": "2026-06-04T00:02:24Z"
+      "last_notified_release_id": 336019670,
+      "last_notified_release_published_at": "2026-06-08T14:55:05Z"
     },
     "colbymchenry/codegraph": {
       "full_name": "colbymchenry/codegraph",
@@ -30,8 +30,8 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 335700367,
-      "last_notified_release_published_at": "2026-06-07T23:56:36Z"
+      "last_notified_release_id": 336230789,
+      "last_notified_release_published_at": "2026-06-08T20:52:46Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -54,8 +54,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 335631990,
-      "last_notified_release_published_at": "2026-06-07T16:20:22Z"
+      "last_notified_release_id": 336185327,
+      "last_notified_release_published_at": "2026-06-08T19:02:27Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -66,8 +66,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 335565307,
-      "last_notified_release_published_at": "2026-06-07T09:08:48Z"
+      "last_notified_release_id": 336058483,
+      "last_notified_release_published_at": "2026-06-08T16:03:39Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -108,8 +108,8 @@
     "alvinunreal/oh-my-opencode-slim": {
       "full_name": "alvinunreal/oh-my-opencode-slim",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": null,
-      "last_notified_release_published_at": null
+      "last_notified_release_id": 335934167,
+      "last_notified_release_published_at": "2026-06-08T12:19:28Z"
     },
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
@@ -138,14 +138,14 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 335751842,
-      "last_notified_release_published_at": "2026-06-08T04:42:02Z"
+      "last_notified_release_id": 336297739,
+      "last_notified_release_published_at": "2026-06-09T00:28:43Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 333501130,
-      "last_notified_release_published_at": "2026-06-03T05:15:32Z"
+      "last_notified_release_id": 336303272,
+      "last_notified_release_published_at": "2026-06-09T00:50:13Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -180,8 +180,8 @@
     "Yeachan-Heo/oh-my-claudecode": {
       "full_name": "Yeachan-Heo/oh-my-claudecode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 334229382,
-      "last_notified_release_published_at": "2026-06-04T09:17:25Z"
+      "last_notified_release_id": 336333104,
+      "last_notified_release_published_at": "2026-06-09T02:55:39Z"
     },
     "lonr-6/cc-desktop-switch": {
       "full_name": "lonr-6/cc-desktop-switch",
@@ -210,8 +210,8 @@
     "farion1231/cc-switch": {
       "full_name": "farion1231/cc-switch",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 332490738,
-      "last_notified_release_published_at": "2026-06-01T12:51:32Z"
+      "last_notified_release_id": 336051569,
+      "last_notified_release_published_at": "2026-06-08T15:53:00Z"
     },
     "anthropics/skills": {
       "full_name": "anthropics/skills",
@@ -282,8 +282,8 @@
     "XingYu-Zhong/DeepSeek-GUI": {
       "full_name": "XingYu-Zhong/DeepSeek-GUI",
       "tracked_since": "2026-06-08T05:26:55.794Z",
-      "last_notified_release_id": null,
-      "last_notified_release_published_at": null
+      "last_notified_release_id": 336341573,
+      "last_notified_release_published_at": "2026-06-09T03:11:06Z"
     }
   }
 }
