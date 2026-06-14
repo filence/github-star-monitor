@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-06-13T05:17:30.018Z"
+    "last_success_at": "2026-06-14T05:27:46.471Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -12,14 +12,14 @@
     "colbymchenry/codegraph": {
       "full_name": "colbymchenry/codegraph",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 338740926,
-      "last_notified_release_published_at": "2026-06-12T18:23:47Z"
+      "last_notified_release_id": 339049142,
+      "last_notified_release_published_at": "2026-06-13T21:10:11Z"
     },
     "fathah/hermes-desktop": {
       "full_name": "fathah/hermes-desktop",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 337024515,
-      "last_notified_release_published_at": "2026-06-10T05:39:13Z"
+      "last_notified_release_id": 338955091,
+      "last_notified_release_published_at": "2026-06-13T11:12:58Z"
     },
     "NousResearch/hermes-agent": {
       "full_name": "NousResearch/hermes-agent",
@@ -30,8 +30,8 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 338742597,
-      "last_notified_release_published_at": "2026-06-12T18:29:58Z"
+      "last_notified_release_id": 339033737,
+      "last_notified_release_published_at": "2026-06-13T19:23:00Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -66,8 +66,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 338736813,
-      "last_notified_release_published_at": "2026-06-12T18:13:12Z"
+      "last_notified_release_id": 338982103,
+      "last_notified_release_published_at": "2026-06-13T14:08:53Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -84,8 +84,8 @@
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 338877894,
-      "last_notified_release_published_at": "2026-06-13T02:01:12Z"
+      "last_notified_release_id": 339039825,
+      "last_notified_release_published_at": "2026-06-13T20:03:38Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -114,8 +114,8 @@
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 338332704,
-      "last_notified_release_published_at": "2026-06-12T02:19:40Z"
+      "last_notified_release_id": 339057641,
+      "last_notified_release_published_at": "2026-06-13T22:39:10Z"
     },
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
@@ -138,8 +138,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 338828428,
-      "last_notified_release_published_at": "2026-06-12T22:11:16Z"
+      "last_notified_release_id": 338979607,
+      "last_notified_release_published_at": "2026-06-13T13:54:42Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -240,8 +240,8 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 337942338,
-      "last_notified_release_published_at": "2026-06-11T12:23:42Z"
+      "last_notified_release_id": 338935882,
+      "last_notified_release_published_at": "2026-06-13T08:56:32Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
@@ -282,8 +282,8 @@
     "KunAgent/Kun": {
       "full_name": "KunAgent/Kun",
       "tracked_since": "2026-06-11T05:25:14.602Z",
-      "last_notified_release_id": 338899154,
-      "last_notified_release_published_at": "2026-06-13T04:33:18Z"
+      "last_notified_release_id": 339013598,
+      "last_notified_release_published_at": "2026-06-13T17:13:29Z"
     },
     "CloakHQ/CloakBrowser": {
       "full_name": "CloakHQ/CloakBrowser",
