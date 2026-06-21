@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-06-20T05:08:05.225Z"
+    "last_success_at": "2026-06-21T05:57:13.062Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -18,8 +18,8 @@
     "fathah/hermes-desktop": {
       "full_name": "fathah/hermes-desktop",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 341166455,
-      "last_notified_release_published_at": "2026-06-18T05:03:39Z"
+      "last_notified_release_id": 342298368,
+      "last_notified_release_published_at": "2026-06-20T10:56:38Z"
     },
     "NousResearch/hermes-agent": {
       "full_name": "NousResearch/hermes-agent",
@@ -30,8 +30,8 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342177530,
-      "last_notified_release_published_at": "2026-06-19T23:39:55Z"
+      "last_notified_release_id": 342432820,
+      "last_notified_release_published_at": "2026-06-21T01:10:25Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -54,8 +54,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 341941120,
-      "last_notified_release_published_at": "2026-06-19T12:55:14Z"
+      "last_notified_release_id": 342249615,
+      "last_notified_release_published_at": "2026-06-20T05:21:02Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -84,8 +84,8 @@
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 341320942,
-      "last_notified_release_published_at": "2026-06-18T10:12:09Z"
+      "last_notified_release_id": 342342159,
+      "last_notified_release_published_at": "2026-06-20T14:34:14Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -114,8 +114,8 @@
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 341044941,
-      "last_notified_release_published_at": "2026-06-17T21:27:18Z"
+      "last_notified_release_id": 342418275,
+      "last_notified_release_published_at": "2026-06-21T00:03:11Z"
     },
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
@@ -138,14 +138,14 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342045708,
-      "last_notified_release_published_at": "2026-06-19T16:59:33Z"
+      "last_notified_release_id": 342449313,
+      "last_notified_release_published_at": "2026-06-21T03:38:51Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342237406,
-      "last_notified_release_published_at": "2026-06-20T03:43:33Z"
+      "last_notified_release_id": 342289440,
+      "last_notified_release_published_at": "2026-06-20T09:51:36Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -168,8 +168,8 @@
     "thedotmack/claude-mem": {
       "full_name": "thedotmack/claude-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 341028313,
-      "last_notified_release_published_at": "2026-06-17T20:24:06Z"
+      "last_notified_release_id": 342262877,
+      "last_notified_release_published_at": "2026-06-20T07:05:05Z"
     },
     "luongnv89/claude-howto": {
       "full_name": "luongnv89/claude-howto",
@@ -282,8 +282,8 @@
     "KunAgent/Kun": {
       "full_name": "KunAgent/Kun",
       "tracked_since": "2026-06-11T05:25:14.602Z",
-      "last_notified_release_id": 341492423,
-      "last_notified_release_published_at": "2026-06-18T15:32:45Z"
+      "last_notified_release_id": 342250181,
+      "last_notified_release_published_at": "2026-06-20T05:29:37Z"
     },
     "CloakHQ/CloakBrowser": {
       "full_name": "CloakHQ/CloakBrowser",
