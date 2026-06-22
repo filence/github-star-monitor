@@ -1,13 +1,13 @@
 {
   "global": {
-    "last_success_at": "2026-06-21T05:57:13.062Z"
+    "last_success_at": "2026-06-22T06:24:18.931Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
       "full_name": "Hmbown/CodeWhale",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 341190484,
-      "last_notified_release_published_at": "2026-06-18T06:27:46Z"
+      "last_notified_release_id": 342469860,
+      "last_notified_release_published_at": "2026-06-21T06:41:59Z"
     },
     "colbymchenry/codegraph": {
       "full_name": "colbymchenry/codegraph",
@@ -18,8 +18,8 @@
     "fathah/hermes-desktop": {
       "full_name": "fathah/hermes-desktop",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342298368,
-      "last_notified_release_published_at": "2026-06-20T10:56:38Z"
+      "last_notified_release_id": 342570662,
+      "last_notified_release_published_at": "2026-06-21T17:39:58Z"
     },
     "NousResearch/hermes-agent": {
       "full_name": "NousResearch/hermes-agent",
@@ -30,8 +30,8 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342432820,
-      "last_notified_release_published_at": "2026-06-21T01:10:25Z"
+      "last_notified_release_id": 342610063,
+      "last_notified_release_published_at": "2026-06-21T22:07:07Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -54,8 +54,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342249615,
-      "last_notified_release_published_at": "2026-06-20T05:21:02Z"
+      "last_notified_release_id": 342568770,
+      "last_notified_release_published_at": "2026-06-21T17:26:52Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -78,14 +78,14 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 341799117,
-      "last_notified_release_published_at": "2026-06-19T07:43:49Z"
+      "last_notified_release_id": 342533451,
+      "last_notified_release_published_at": "2026-06-21T14:02:26Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342342159,
-      "last_notified_release_published_at": "2026-06-20T14:34:14Z"
+      "last_notified_release_id": 342481527,
+      "last_notified_release_published_at": "2026-06-21T08:09:16Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -138,8 +138,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342449313,
-      "last_notified_release_published_at": "2026-06-21T03:38:51Z"
+      "last_notified_release_id": 342564470,
+      "last_notified_release_published_at": "2026-06-21T16:59:44Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -168,8 +168,8 @@
     "thedotmack/claude-mem": {
       "full_name": "thedotmack/claude-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342262877,
-      "last_notified_release_published_at": "2026-06-20T07:05:05Z"
+      "last_notified_release_id": 342596933,
+      "last_notified_release_published_at": "2026-06-21T20:33:47Z"
     },
     "luongnv89/claude-howto": {
       "full_name": "luongnv89/claude-howto",
@@ -192,8 +192,8 @@
     "mksglu/context-mode": {
       "full_name": "mksglu/context-mode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 333253585,
-      "last_notified_release_published_at": "2026-06-02T17:05:54Z"
+      "last_notified_release_id": 342560331,
+      "last_notified_release_published_at": "2026-06-21T16:33:31Z"
     },
     "zilliztech/claude-context": {
       "full_name": "zilliztech/claude-context",
@@ -324,8 +324,8 @@
     "notesynchelper/shoujidiannao": {
       "full_name": "notesynchelper/shoujidiannao",
       "tracked_since": "2026-06-18T05:52:04.211Z",
-      "last_notified_release_id": null,
-      "last_notified_release_published_at": null
+      "last_notified_release_id": 342696579,
+      "last_notified_release_published_at": "2026-06-22T06:04:59Z"
     },
     "garden-cosmos/natural-chinese-protocol": {
       "full_name": "garden-cosmos/natural-chinese-protocol",
