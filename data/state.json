@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-06-24T04:59:46.172Z"
+    "last_success_at": "2026-06-25T05:00:20.968Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -12,8 +12,8 @@
     "colbymchenry/codegraph": {
       "full_name": "colbymchenry/codegraph",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 343779723,
-      "last_notified_release_published_at": "2026-06-23T21:46:56Z"
+      "last_notified_release_id": 344393285,
+      "last_notified_release_published_at": "2026-06-24T22:20:11Z"
     },
     "fathah/hermes-desktop": {
       "full_name": "fathah/hermes-desktop",
@@ -30,14 +30,14 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 343689391,
-      "last_notified_release_published_at": "2026-06-23T18:46:21Z"
+      "last_notified_release_id": 343900313,
+      "last_notified_release_published_at": "2026-06-24T05:44:32Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 343833473,
-      "last_notified_release_published_at": "2026-06-24T01:04:32Z"
+      "last_notified_release_id": 344439264,
+      "last_notified_release_published_at": "2026-06-25T01:39:55Z"
     },
     "crafter-station/petdex": {
       "full_name": "crafter-station/petdex",
@@ -78,8 +78,8 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 343877299,
-      "last_notified_release_published_at": "2026-06-24T04:50:15Z"
+      "last_notified_release_id": 344107896,
+      "last_notified_release_published_at": "2026-06-24T13:28:15Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
@@ -114,14 +114,14 @@
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342418275,
-      "last_notified_release_published_at": "2026-06-21T00:03:11Z"
+      "last_notified_release_id": 344345223,
+      "last_notified_release_published_at": "2026-06-24T20:37:42Z"
     },
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 341089490,
-      "last_notified_release_published_at": "2026-06-17T23:25:23Z"
+      "last_notified_release_id": 344229736,
+      "last_notified_release_published_at": "2026-06-24T16:19:50Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -138,8 +138,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 343591136,
-      "last_notified_release_published_at": "2026-06-23T15:28:13Z"
+      "last_notified_release_id": 344271307,
+      "last_notified_release_published_at": "2026-06-24T17:35:29Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -306,8 +306,8 @@
     "nashsu/llm_wiki": {
       "full_name": "nashsu/llm_wiki",
       "tracked_since": "2026-06-12T05:27:47.839Z",
-      "last_notified_release_id": 343333210,
-      "last_notified_release_published_at": "2026-06-23T07:35:38Z"
+      "last_notified_release_id": 344174893,
+      "last_notified_release_published_at": "2026-06-24T14:41:12Z"
     },
     "Johnshall/Shadowrocket-ADBlock-Rules-Forever": {
       "full_name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
@@ -336,8 +336,8 @@
     "EKKOLearnAI/hermes-studio": {
       "full_name": "EKKOLearnAI/hermes-studio",
       "tracked_since": "2026-06-23T04:56:00.390Z",
-      "last_notified_release_id": null,
-      "last_notified_release_published_at": null
+      "last_notified_release_id": 344468821,
+      "last_notified_release_published_at": "2026-06-25T03:50:09Z"
     }
   }
 }
