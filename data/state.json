@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-06-26T05:05:14.415Z"
+    "last_success_at": "2026-06-27T04:48:02.010Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -18,8 +18,8 @@
     "fathah/hermes-desktop": {
       "full_name": "fathah/hermes-desktop",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 343428284,
-      "last_notified_release_published_at": "2026-06-23T10:30:21Z"
+      "last_notified_release_id": 345330125,
+      "last_notified_release_published_at": "2026-06-26T13:22:37Z"
     },
     "NousResearch/hermes-agent": {
       "full_name": "NousResearch/hermes-agent",
@@ -30,14 +30,14 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 344993465,
-      "last_notified_release_published_at": "2026-06-25T21:19:51Z"
+      "last_notified_release_id": 345558234,
+      "last_notified_release_published_at": "2026-06-26T22:43:15Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 345115694,
-      "last_notified_release_published_at": "2026-06-26T04:02:42Z"
+      "last_notified_release_id": 345573538,
+      "last_notified_release_published_at": "2026-06-26T23:56:00Z"
     },
     "crafter-station/petdex": {
       "full_name": "crafter-station/petdex",
@@ -48,8 +48,8 @@
     "borawong/AiMaMi": {
       "full_name": "borawong/AiMaMi",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 339893257,
-      "last_notified_release_published_at": "2026-06-16T03:32:49Z"
+      "last_notified_release_id": 345569634,
+      "last_notified_release_published_at": "2026-06-26T23:41:28Z"
     },
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
@@ -78,8 +78,8 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 344107896,
-      "last_notified_release_published_at": "2026-06-24T13:28:15Z"
+      "last_notified_release_id": 345453997,
+      "last_notified_release_published_at": "2026-06-26T18:37:16Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
@@ -120,14 +120,14 @@
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 344229736,
-      "last_notified_release_published_at": "2026-06-24T16:19:50Z"
+      "last_notified_release_id": 345560316,
+      "last_notified_release_published_at": "2026-06-26T22:54:43Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342864978,
-      "last_notified_release_published_at": "2026-06-22T11:41:12Z"
+      "last_notified_release_id": 345294068,
+      "last_notified_release_published_at": "2026-06-26T12:04:23Z"
     },
     "deepseek-ai/awesome-deepseek-agent": {
       "full_name": "deepseek-ai/awesome-deepseek-agent",
@@ -192,8 +192,8 @@
     "mksglu/context-mode": {
       "full_name": "mksglu/context-mode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 343312255,
-      "last_notified_release_published_at": "2026-06-23T06:43:53Z"
+      "last_notified_release_id": 345406047,
+      "last_notified_release_published_at": "2026-06-26T15:49:46Z"
     },
     "zilliztech/claude-context": {
       "full_name": "zilliztech/claude-context",
@@ -246,8 +246,8 @@
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": 344547139,
-      "last_notified_release_published_at": "2026-06-25T07:54:52Z"
+      "last_notified_release_id": 345355906,
+      "last_notified_release_published_at": "2026-06-26T14:16:10Z"
     },
     "alchaincyf/huashu-design": {
       "full_name": "alchaincyf/huashu-design",
@@ -282,8 +282,8 @@
     "KunAgent/Kun": {
       "full_name": "KunAgent/Kun",
       "tracked_since": "2026-06-11T05:25:14.602Z",
-      "last_notified_release_id": 344901269,
-      "last_notified_release_published_at": "2026-06-25T18:18:05Z"
+      "last_notified_release_id": 345193289,
+      "last_notified_release_published_at": "2026-06-26T08:00:10Z"
     },
     "CloakHQ/CloakBrowser": {
       "full_name": "CloakHQ/CloakBrowser",
@@ -338,6 +338,12 @@
       "tracked_since": "2026-06-23T04:56:00.390Z",
       "last_notified_release_id": 344468821,
       "last_notified_release_published_at": "2026-06-25T03:50:09Z"
+    },
+    "BigStrongSun/ccswitchmulti": {
+      "full_name": "BigStrongSun/ccswitchmulti",
+      "tracked_since": "2026-06-27T04:48:02.010Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
     }
   }
 }
