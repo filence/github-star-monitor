@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-06-29T05:26:36.521Z"
+    "last_success_at": "2026-06-30T04:58:55.316Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -12,8 +12,8 @@
     "colbymchenry/codegraph": {
       "full_name": "colbymchenry/codegraph",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 346059231,
-      "last_notified_release_published_at": "2026-06-29T04:04:12Z"
+      "last_notified_release_id": 346617058,
+      "last_notified_release_published_at": "2026-06-30T04:44:10Z"
     },
     "fathah/hermes-desktop": {
       "full_name": "fathah/hermes-desktop",
@@ -36,8 +36,8 @@
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 345573538,
-      "last_notified_release_published_at": "2026-06-26T23:56:00Z"
+      "last_notified_release_id": 346401509,
+      "last_notified_release_published_at": "2026-06-29T17:00:09Z"
     },
     "crafter-station/petdex": {
       "full_name": "crafter-station/petdex",
@@ -84,8 +84,8 @@
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 345952393,
-      "last_notified_release_published_at": "2026-06-28T17:16:28Z"
+      "last_notified_release_id": 346118320,
+      "last_notified_release_published_at": "2026-06-29T07:35:25Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -138,14 +138,14 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 346005118,
-      "last_notified_release_published_at": "2026-06-28T22:50:17Z"
+      "last_notified_release_id": 346212718,
+      "last_notified_release_published_at": "2026-06-29T11:00:49Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 343351493,
-      "last_notified_release_published_at": "2026-06-23T08:10:04Z"
+      "last_notified_release_id": 346330853,
+      "last_notified_release_published_at": "2026-06-29T14:52:51Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -168,8 +168,8 @@
     "thedotmack/claude-mem": {
       "full_name": "thedotmack/claude-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 342596933,
-      "last_notified_release_published_at": "2026-06-21T20:33:47Z"
+      "last_notified_release_id": 346551917,
+      "last_notified_release_published_at": "2026-06-29T23:47:48Z"
     },
     "luongnv89/claude-howto": {
       "full_name": "luongnv89/claude-howto",
@@ -192,8 +192,8 @@
     "mksglu/context-mode": {
       "full_name": "mksglu/context-mode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 345406047,
-      "last_notified_release_published_at": "2026-06-26T15:49:46Z"
+      "last_notified_release_id": 346435394,
+      "last_notified_release_published_at": "2026-06-29T18:18:53Z"
     },
     "zilliztech/claude-context": {
       "full_name": "zilliztech/claude-context",
@@ -246,8 +246,8 @@
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": 345355906,
-      "last_notified_release_published_at": "2026-06-26T14:16:10Z"
+      "last_notified_release_id": 346120902,
+      "last_notified_release_published_at": "2026-06-29T07:51:45Z"
     },
     "alchaincyf/huashu-design": {
       "full_name": "alchaincyf/huashu-design",
@@ -282,8 +282,8 @@
     "KunAgent/Kun": {
       "full_name": "KunAgent/Kun",
       "tracked_since": "2026-06-11T05:25:14.602Z",
-      "last_notified_release_id": 345952518,
-      "last_notified_release_published_at": "2026-06-28T17:17:13Z"
+      "last_notified_release_id": 346434508,
+      "last_notified_release_published_at": "2026-06-29T18:16:27Z"
     },
     "CloakHQ/CloakBrowser": {
       "full_name": "CloakHQ/CloakBrowser",
@@ -306,8 +306,8 @@
     "nashsu/llm_wiki": {
       "full_name": "nashsu/llm_wiki",
       "tracked_since": "2026-06-12T05:27:47.839Z",
-      "last_notified_release_id": 345877049,
-      "last_notified_release_published_at": "2026-06-28T09:30:01Z"
+      "last_notified_release_id": 346610833,
+      "last_notified_release_published_at": "2026-06-30T04:16:18Z"
     },
     "Johnshall/Shadowrocket-ADBlock-Rules-Forever": {
       "full_name": "Johnshall/Shadowrocket-ADBlock-Rules-Forever",
@@ -324,8 +324,8 @@
     "notesynchelper/shoujidiannao": {
       "full_name": "notesynchelper/shoujidiannao",
       "tracked_since": "2026-06-18T05:52:04.211Z",
-      "last_notified_release_id": 345106298,
-      "last_notified_release_published_at": "2026-06-26T03:19:43Z"
+      "last_notified_release_id": 346141981,
+      "last_notified_release_published_at": "2026-06-29T08:27:12Z"
     },
     "garden-cosmos/natural-chinese-protocol": {
       "full_name": "garden-cosmos/natural-chinese-protocol",
@@ -342,8 +342,20 @@
     "BigStrongSun/ccswitchmulti": {
       "full_name": "BigStrongSun/ccswitchmulti",
       "tracked_since": "2026-06-27T04:48:02.010Z",
-      "last_notified_release_id": 346034935,
-      "last_notified_release_published_at": "2026-06-29T02:02:35Z"
+      "last_notified_release_id": 346454484,
+      "last_notified_release_published_at": "2026-06-29T19:04:48Z"
+    },
+    "InfiCheesy/cloudflaresub": {
+      "full_name": "InfiCheesy/cloudflaresub",
+      "tracked_since": "2026-06-30T04:58:55.316Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "XIU2/CloudflareSpeedTest": {
+      "full_name": "XIU2/CloudflareSpeedTest",
+      "tracked_since": "2026-06-30T04:58:55.316Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
     }
   }
 }
