@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-07-02T04:54:46.456Z"
+    "last_success_at": "2026-07-03T04:37:42.152Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -72,20 +72,20 @@
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 347824328,
-      "last_notified_release_published_at": "2026-07-02T04:32:04Z"
+      "last_notified_release_id": 348383397,
+      "last_notified_release_published_at": "2026-07-03T02:47:25Z"
     },
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 347065411,
-      "last_notified_release_published_at": "2026-06-30T20:06:31Z"
+      "last_notified_release_id": 348390036,
+      "last_notified_release_published_at": "2026-07-03T03:38:16Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 347833953,
-      "last_notified_release_published_at": "2026-07-02T04:49:49Z"
+      "last_notified_release_id": 347861851,
+      "last_notified_release_published_at": "2026-07-02T06:25:18Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -120,8 +120,8 @@
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 346008200,
-      "last_notified_release_published_at": "2026-06-28T23:17:41Z"
+      "last_notified_release_id": 348151501,
+      "last_notified_release_published_at": "2026-07-02T16:06:46Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -228,8 +228,8 @@
     "obra/superpowers": {
       "full_name": "obra/superpowers",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 347033097,
-      "last_notified_release_published_at": "2026-06-30T18:42:18Z"
+      "last_notified_release_id": 348309374,
+      "last_notified_release_published_at": "2026-07-02T21:58:30Z"
     },
     "eze-is/web-access": {
       "full_name": "eze-is/web-access",
@@ -282,8 +282,8 @@
     "KunAgent/Kun": {
       "full_name": "KunAgent/Kun",
       "tracked_since": "2026-06-11T05:25:14.602Z",
-      "last_notified_release_id": 347634895,
-      "last_notified_release_published_at": "2026-07-01T18:01:36Z"
+      "last_notified_release_id": 348206306,
+      "last_notified_release_published_at": "2026-07-02T17:55:12Z"
     },
     "CloakHQ/CloakBrowser": {
       "full_name": "CloakHQ/CloakBrowser",
@@ -336,14 +336,14 @@
     "EKKOLearnAI/hermes-studio": {
       "full_name": "EKKOLearnAI/hermes-studio",
       "tracked_since": "2026-06-23T04:56:00.390Z",
-      "last_notified_release_id": 347772884,
-      "last_notified_release_published_at": "2026-07-02T00:23:43Z"
+      "last_notified_release_id": 348383513,
+      "last_notified_release_published_at": "2026-07-03T02:36:25Z"
     },
     "BigStrongSun/ccswitchmulti": {
       "full_name": "BigStrongSun/ccswitchmulti",
       "tracked_since": "2026-06-27T04:48:02.010Z",
-      "last_notified_release_id": 347531214,
-      "last_notified_release_published_at": "2026-07-01T14:54:09Z"
+      "last_notified_release_id": 348261867,
+      "last_notified_release_published_at": "2026-07-02T19:56:24Z"
     },
     "InfiCheesy/cloudflaresub": {
       "full_name": "InfiCheesy/cloudflaresub",
