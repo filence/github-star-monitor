@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-07-17T03:56:49.606Z"
+    "last_success_at": "2026-07-18T03:50:57.216Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -30,8 +30,8 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 355340460,
-      "last_notified_release_published_at": "2026-07-16T20:22:24Z"
+      "last_notified_release_id": 355538780,
+      "last_notified_release_published_at": "2026-07-17T07:44:55Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -66,8 +66,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 341578170,
-      "last_notified_release_published_at": "2026-06-18T18:31:04Z"
+      "last_notified_release_id": 355505244,
+      "last_notified_release_published_at": "2026-07-17T06:20:55Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -138,14 +138,14 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 355325201,
-      "last_notified_release_published_at": "2026-07-16T19:50:33Z"
+      "last_notified_release_id": 355896181,
+      "last_notified_release_published_at": "2026-07-17T19:58:57Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 354966329,
-      "last_notified_release_published_at": "2026-07-16T08:49:49Z"
+      "last_notified_release_id": 355804510,
+      "last_notified_release_published_at": "2026-07-17T16:43:04Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -240,14 +240,14 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 355061304,
-      "last_notified_release_published_at": "2026-07-16T12:04:24Z"
+      "last_notified_release_id": 355989224,
+      "last_notified_release_published_at": "2026-07-18T01:42:37Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": 355423472,
-      "last_notified_release_published_at": "2026-07-17T01:19:46Z"
+      "last_notified_release_id": 356003813,
+      "last_notified_release_published_at": "2026-07-18T03:10:13Z"
     },
     "alchaincyf/huashu-design": {
       "full_name": "alchaincyf/huashu-design",
@@ -282,8 +282,8 @@
     "KunAgent/Kun": {
       "full_name": "KunAgent/Kun",
       "tracked_since": "2026-06-11T05:25:14.602Z",
-      "last_notified_release_id": 354903483,
-      "last_notified_release_published_at": "2026-07-16T06:31:11Z"
+      "last_notified_release_id": 355919571,
+      "last_notified_release_published_at": "2026-07-17T20:58:34Z"
     },
     "CloakHQ/CloakBrowser": {
       "full_name": "CloakHQ/CloakBrowser",
@@ -318,8 +318,8 @@
     "jnMetaCode/superpowers-zh": {
       "full_name": "jnMetaCode/superpowers-zh",
       "tracked_since": "2026-06-16T06:29:50.570Z",
-      "last_notified_release_id": 353442731,
-      "last_notified_release_published_at": "2026-07-13T21:31:25Z"
+      "last_notified_release_id": 355692396,
+      "last_notified_release_published_at": "2026-07-17T13:16:19Z"
     },
     "notesynchelper/shoujidiannao": {
       "full_name": "notesynchelper/shoujidiannao",
@@ -342,8 +342,8 @@
     "BigStrongSun/ccswitchmulti": {
       "full_name": "BigStrongSun/ccswitchmulti",
       "tracked_since": "2026-06-27T04:48:02.010Z",
-      "last_notified_release_id": 354608078,
-      "last_notified_release_published_at": "2026-07-15T17:42:07Z"
+      "last_notified_release_id": 355501084,
+      "last_notified_release_published_at": "2026-07-17T06:58:21Z"
     },
     "InfiCheesy/cloudflaresub": {
       "full_name": "InfiCheesy/cloudflaresub",
@@ -384,8 +384,8 @@
     "komari-monitor/komari": {
       "full_name": "komari-monitor/komari",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 355461676,
-      "last_notified_release_published_at": "2026-07-17T03:43:11Z"
+      "last_notified_release_id": 355582424,
+      "last_notified_release_published_at": "2026-07-17T09:26:04Z"
     },
     "anysearch-ai/anysearch-skill": {
       "full_name": "anysearch-ai/anysearch-skill",
