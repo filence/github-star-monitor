@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-07-18T03:50:57.216Z"
+    "last_success_at": "2026-07-19T04:18:42.246Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -30,8 +30,8 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 355538780,
-      "last_notified_release_published_at": "2026-07-17T07:44:55Z"
+      "last_notified_release_id": 356056334,
+      "last_notified_release_published_at": "2026-07-18T08:29:20Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -42,8 +42,8 @@
     "crafter-station/petdex": {
       "full_name": "crafter-station/petdex",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 334552726,
-      "last_notified_release_published_at": "2026-06-04T19:13:33Z"
+      "last_notified_release_id": 356171025,
+      "last_notified_release_published_at": "2026-07-18T18:53:28Z"
     },
     "borawong/AiMaMi": {
       "full_name": "borawong/AiMaMi",
@@ -54,8 +54,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 354859946,
-      "last_notified_release_published_at": "2026-07-16T04:13:02Z"
+      "last_notified_release_id": 356013440,
+      "last_notified_release_published_at": "2026-07-18T04:04:26Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -66,8 +66,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 355505244,
-      "last_notified_release_published_at": "2026-07-17T06:20:55Z"
+      "last_notified_release_id": 356150780,
+      "last_notified_release_published_at": "2026-07-18T17:03:53Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -84,8 +84,8 @@
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 354978557,
-      "last_notified_release_published_at": "2026-07-16T09:14:31Z"
+      "last_notified_release_id": 356098451,
+      "last_notified_release_published_at": "2026-07-18T12:37:47Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -108,8 +108,8 @@
     "alvinunreal/oh-my-opencode-slim": {
       "full_name": "alvinunreal/oh-my-opencode-slim",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 355220004,
-      "last_notified_release_published_at": "2026-07-16T16:32:55Z"
+      "last_notified_release_id": 356137651,
+      "last_notified_release_published_at": "2026-07-18T15:57:37Z"
     },
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
@@ -120,8 +120,8 @@
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 353480445,
-      "last_notified_release_published_at": "2026-07-13T22:54:37Z"
+      "last_notified_release_id": 356042233,
+      "last_notified_release_published_at": "2026-07-18T07:48:51Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -138,8 +138,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 355896181,
-      "last_notified_release_published_at": "2026-07-17T19:58:57Z"
+      "last_notified_release_id": 356133294,
+      "last_notified_release_published_at": "2026-07-18T15:37:00Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -246,8 +246,8 @@
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": 356003813,
-      "last_notified_release_published_at": "2026-07-18T03:10:13Z"
+      "last_notified_release_id": 356038648,
+      "last_notified_release_published_at": "2026-07-18T06:55:13Z"
     },
     "alchaincyf/huashu-design": {
       "full_name": "alchaincyf/huashu-design",
@@ -282,14 +282,14 @@
     "KunAgent/Kun": {
       "full_name": "KunAgent/Kun",
       "tracked_since": "2026-06-11T05:25:14.602Z",
-      "last_notified_release_id": 355919571,
-      "last_notified_release_published_at": "2026-07-17T20:58:34Z"
+      "last_notified_release_id": 356038310,
+      "last_notified_release_published_at": "2026-07-18T06:46:50Z"
     },
     "CloakHQ/CloakBrowser": {
       "full_name": "CloakHQ/CloakBrowser",
       "tracked_since": "2026-06-12T05:27:47.839Z",
-      "last_notified_release_id": 349239619,
-      "last_notified_release_published_at": "2026-07-05T20:19:39Z"
+      "last_notified_release_id": 356202368,
+      "last_notified_release_published_at": "2026-07-18T21:59:59Z"
     },
     "Panniantong/Agent-Reach": {
       "full_name": "Panniantong/Agent-Reach",
@@ -324,8 +324,8 @@
     "notesynchelper/shoujidiannao": {
       "full_name": "notesynchelper/shoujidiannao",
       "tracked_since": "2026-06-18T05:52:04.211Z",
-      "last_notified_release_id": 355443985,
-      "last_notified_release_published_at": "2026-07-17T02:31:06Z"
+      "last_notified_release_id": 356079418,
+      "last_notified_release_published_at": "2026-07-18T10:48:05Z"
     },
     "garden-cosmos/natural-chinese-protocol": {
       "full_name": "garden-cosmos/natural-chinese-protocol",
@@ -336,8 +336,8 @@
     "EKKOLearnAI/hermes-studio": {
       "full_name": "EKKOLearnAI/hermes-studio",
       "tracked_since": "2026-06-23T04:56:00.390Z",
-      "last_notified_release_id": 354285191,
-      "last_notified_release_published_at": "2026-07-15T08:13:35Z"
+      "last_notified_release_id": 356250275,
+      "last_notified_release_published_at": "2026-07-19T03:40:11Z"
     },
     "BigStrongSun/ccswitchmulti": {
       "full_name": "BigStrongSun/ccswitchmulti",
