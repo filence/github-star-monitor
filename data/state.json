@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-07-21T04:11:54.994Z"
+    "last_success_at": "2026-07-22T04:13:15.231Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -12,8 +12,8 @@
     "colbymchenry/codegraph": {
       "full_name": "colbymchenry/codegraph",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 352360145,
-      "last_notified_release_published_at": "2026-07-10T22:40:02Z"
+      "last_notified_release_id": 357579472,
+      "last_notified_release_published_at": "2026-07-21T19:15:36Z"
     },
     "fathah/hermes-desktop": {
       "full_name": "fathah/hermes-desktop",
@@ -54,8 +54,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 356505686,
-      "last_notified_release_published_at": "2026-07-20T04:40:25Z"
+      "last_notified_release_id": 357111336,
+      "last_notified_release_published_at": "2026-07-21T04:19:06Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -96,20 +96,20 @@
     "tickernelz/opencode-mem": {
       "full_name": "tickernelz/opencode-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 352050223,
-      "last_notified_release_published_at": "2026-07-10T11:16:31Z"
+      "last_notified_release_id": 357703803,
+      "last_notified_release_published_at": "2026-07-21T23:57:06Z"
     },
     "supermemoryai/supermemory": {
       "full_name": "supermemoryai/supermemory",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 356396491,
-      "last_notified_release_published_at": "2026-07-19T17:32:43Z"
+      "last_notified_release_id": 357714614,
+      "last_notified_release_published_at": "2026-07-22T00:38:57Z"
     },
     "alvinunreal/oh-my-opencode-slim": {
       "full_name": "alvinunreal/oh-my-opencode-slim",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 356137651,
-      "last_notified_release_published_at": "2026-07-18T15:57:37Z"
+      "last_notified_release_id": 357184760,
+      "last_notified_release_published_at": "2026-07-21T07:51:30Z"
     },
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
@@ -138,8 +138,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 356559771,
-      "last_notified_release_published_at": "2026-07-20T07:39:11Z"
+      "last_notified_release_id": 357587269,
+      "last_notified_release_published_at": "2026-07-21T19:30:32Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -210,8 +210,8 @@
     "farion1231/cc-switch": {
       "full_name": "farion1231/cc-switch",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 353275761,
-      "last_notified_release_published_at": "2026-07-13T16:05:55Z"
+      "last_notified_release_id": 357453512,
+      "last_notified_release_published_at": "2026-07-21T15:34:53Z"
     },
     "anthropics/skills": {
       "full_name": "anthropics/skills",
@@ -246,8 +246,8 @@
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": 356627403,
-      "last_notified_release_published_at": "2026-07-20T10:07:02Z"
+      "last_notified_release_id": 357288033,
+      "last_notified_release_published_at": "2026-07-21T11:31:46Z"
     },
     "alchaincyf/huashu-design": {
       "full_name": "alchaincyf/huashu-design",
@@ -300,8 +300,8 @@
     "mvanhorn/last30days-skill": {
       "full_name": "mvanhorn/last30days-skill",
       "tracked_since": "2026-06-12T05:27:47.839Z",
-      "last_notified_release_id": 354803101,
-      "last_notified_release_published_at": "2026-07-16T00:21:39Z"
+      "last_notified_release_id": 357647598,
+      "last_notified_release_published_at": "2026-07-21T21:21:26Z"
     },
     "nashsu/llm_wiki": {
       "full_name": "nashsu/llm_wiki",
@@ -336,8 +336,8 @@
     "EKKOLearnAI/hermes-studio": {
       "full_name": "EKKOLearnAI/hermes-studio",
       "tracked_since": "2026-06-23T04:56:00.390Z",
-      "last_notified_release_id": 357066990,
-      "last_notified_release_published_at": "2026-07-21T01:25:39Z"
+      "last_notified_release_id": 357358363,
+      "last_notified_release_published_at": "2026-07-21T13:12:05Z"
     },
     "BigStrongSun/ccswitchmulti": {
       "full_name": "BigStrongSun/ccswitchmulti",
@@ -384,14 +384,14 @@
     "komari-monitor/komari": {
       "full_name": "komari-monitor/komari",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 357095209,
-      "last_notified_release_published_at": "2026-07-21T03:18:09Z"
+      "last_notified_release_id": 357462491,
+      "last_notified_release_published_at": "2026-07-21T15:50:33Z"
     },
     "anysearch-ai/anysearch-skill": {
       "full_name": "anysearch-ai/anysearch-skill",
       "tracked_since": "2026-07-09T04:46:24.076Z",
-      "last_notified_release_id": null,
-      "last_notified_release_published_at": null
+      "last_notified_release_id": 357208723,
+      "last_notified_release_published_at": "2026-07-21T08:40:57Z"
     },
     "emilkowalski/skills": {
       "full_name": "emilkowalski/skills",
@@ -414,6 +414,18 @@
     "privacy-protection-tools/anti-AD": {
       "full_name": "privacy-protection-tools/anti-AD",
       "tracked_since": "2026-07-16T03:57:24.748Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "binaricat/Netcatty": {
+      "full_name": "binaricat/Netcatty",
+      "tracked_since": "2026-07-22T04:13:15.231Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "byJoey/Actions-bbr-v3": {
+      "full_name": "byJoey/Actions-bbr-v3",
+      "tracked_since": "2026-07-22T04:13:15.231Z",
       "last_notified_release_id": null,
       "last_notified_release_published_at": null
     }
