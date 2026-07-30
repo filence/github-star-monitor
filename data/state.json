@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-07-29T04:08:22.397Z"
+    "last_success_at": "2026-07-30T03:52:25.609Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -96,8 +96,8 @@
     "tickernelz/opencode-mem": {
       "full_name": "tickernelz/opencode-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 361072242,
-      "last_notified_release_published_at": "2026-07-28T12:30:05Z"
+      "last_notified_release_id": 362145531,
+      "last_notified_release_published_at": "2026-07-30T02:05:19Z"
     },
     "supermemoryai/supermemory": {
       "full_name": "supermemoryai/supermemory",
@@ -120,8 +120,8 @@
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 361234256,
-      "last_notified_release_published_at": "2026-07-28T16:43:03Z"
+      "last_notified_release_id": 361928880,
+      "last_notified_release_published_at": "2026-07-29T17:21:51Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -138,8 +138,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 360940241,
-      "last_notified_release_published_at": "2026-07-28T08:35:29Z"
+      "last_notified_release_id": 362107472,
+      "last_notified_release_published_at": "2026-07-29T23:40:58Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -240,14 +240,14 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 360398580,
-      "last_notified_release_published_at": "2026-07-27T12:06:25Z"
+      "last_notified_release_id": 361962152,
+      "last_notified_release_published_at": "2026-07-29T18:16:09Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": 358788201,
-      "last_notified_release_published_at": "2026-07-23T16:11:36Z"
+      "last_notified_release_id": 362161369,
+      "last_notified_release_published_at": "2026-07-30T03:13:14Z"
     },
     "alchaincyf/huashu-design": {
       "full_name": "alchaincyf/huashu-design",
@@ -384,8 +384,8 @@
     "komari-monitor/komari": {
       "full_name": "komari-monitor/komari",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 361472097,
-      "last_notified_release_published_at": "2026-07-29T02:13:37Z"
+      "last_notified_release_id": 362172326,
+      "last_notified_release_published_at": "2026-07-30T03:36:53Z"
     },
     "anysearch-ai/anysearch-skill": {
       "full_name": "anysearch-ai/anysearch-skill",
