@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-08-05T03:55:54.205Z"
+    "last_success_at": "2026-08-06T04:07:21.100Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
@@ -30,14 +30,14 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 365093399,
-      "last_notified_release_published_at": "2026-08-04T19:09:58Z"
+      "last_notified_release_id": 365740534,
+      "last_notified_release_published_at": "2026-08-05T18:40:08Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 364202400,
-      "last_notified_release_published_at": "2026-08-03T12:31:32Z"
+      "last_notified_release_id": 365921975,
+      "last_notified_release_published_at": "2026-08-06T01:29:34Z"
     },
     "crafter-station/petdex": {
       "full_name": "crafter-station/petdex",
@@ -114,8 +114,8 @@
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 364830710,
-      "last_notified_release_published_at": "2026-08-04T12:12:32Z"
+      "last_notified_release_id": 365794547,
+      "last_notified_release_published_at": "2026-08-05T20:58:55Z"
     },
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
@@ -138,8 +138,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 365183451,
-      "last_notified_release_published_at": "2026-08-04T22:08:06Z"
+      "last_notified_release_id": 365660130,
+      "last_notified_release_published_at": "2026-08-05T16:18:50Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -240,8 +240,8 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 365246862,
-      "last_notified_release_published_at": "2026-08-05T02:01:18Z"
+      "last_notified_release_id": 365609738,
+      "last_notified_release_published_at": "2026-08-05T15:00:22Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
@@ -342,8 +342,8 @@
     "BigStrongSun/ccswitchmulti": {
       "full_name": "BigStrongSun/ccswitchmulti",
       "tracked_since": "2026-06-27T04:48:02.010Z",
-      "last_notified_release_id": 364984068,
-      "last_notified_release_published_at": "2026-08-04T15:46:16Z"
+      "last_notified_release_id": 365776035,
+      "last_notified_release_published_at": "2026-08-05T19:41:25Z"
     },
     "InfiCheesy/cloudflaresub": {
       "full_name": "InfiCheesy/cloudflaresub",
@@ -366,14 +366,14 @@
     "2dust/v2rayN": {
       "full_name": "2dust/v2rayN",
       "tracked_since": "2026-07-04T04:30:27.773Z",
-      "last_notified_release_id": 362428193,
-      "last_notified_release_published_at": "2026-07-30T12:45:22Z"
+      "last_notified_release_id": 365489189,
+      "last_notified_release_published_at": "2026-08-05T11:49:54Z"
     },
     "mattpocock/skills": {
       "full_name": "mattpocock/skills",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 350942193,
-      "last_notified_release_published_at": "2026-07-08T13:20:57Z"
+      "last_notified_release_id": 365723949,
+      "last_notified_release_published_at": "2026-08-05T18:10:19Z"
     },
     "Teminuosi/3x-ui": {
       "full_name": "Teminuosi/3x-ui",
@@ -384,8 +384,8 @@
     "komari-monitor/komari": {
       "full_name": "komari-monitor/komari",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 364622444,
-      "last_notified_release_published_at": "2026-08-04T04:38:25Z"
+      "last_notified_release_id": 365539946,
+      "last_notified_release_published_at": "2026-08-05T13:17:24Z"
     },
     "anysearch-ai/anysearch-skill": {
       "full_name": "anysearch-ai/anysearch-skill",
@@ -432,8 +432,8 @@
     "ibsgss/TcpQuality": {
       "full_name": "ibsgss/TcpQuality",
       "tracked_since": "2026-08-01T04:17:39.926Z",
-      "last_notified_release_id": 365267755,
-      "last_notified_release_published_at": "2026-08-05T03:16:44Z"
+      "last_notified_release_id": 365604390,
+      "last_notified_release_published_at": "2026-08-05T14:52:38Z"
     },
     "zywe03/realm-xwPF": {
       "full_name": "zywe03/realm-xwPF",
