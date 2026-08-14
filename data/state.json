@@ -1,13 +1,13 @@
 {
   "global": {
-    "last_success_at": "2026-08-13T03:23:44.427Z"
+    "last_success_at": "2026-08-14T03:21:39.694Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
       "full_name": "Hmbown/CodeWhale",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 369102503,
-      "last_notified_release_published_at": "2026-08-12T08:47:19Z"
+      "last_notified_release_id": 369771734,
+      "last_notified_release_published_at": "2026-08-13T08:36:49Z"
     },
     "colbymchenry/codegraph": {
       "full_name": "colbymchenry/codegraph",
@@ -24,8 +24,8 @@
     "NousResearch/hermes-agent": {
       "full_name": "NousResearch/hermes-agent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 364368160,
-      "last_notified_release_published_at": "2026-08-03T16:57:52Z"
+      "last_notified_release_id": 370200385,
+      "last_notified_release_published_at": "2026-08-13T20:37:37Z"
     },
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
@@ -36,14 +36,14 @@
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 369129182,
-      "last_notified_release_published_at": "2026-08-12T09:35:02Z"
+      "last_notified_release_id": 370080743,
+      "last_notified_release_published_at": "2026-08-13T17:10:40Z"
     },
     "crafter-station/petdex": {
       "full_name": "crafter-station/petdex",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 369627041,
-      "last_notified_release_published_at": "2026-08-13T02:07:03Z"
+      "last_notified_release_id": 370239964,
+      "last_notified_release_published_at": "2026-08-13T22:07:25Z"
     },
     "borawong/AiMaMi": {
       "full_name": "borawong/AiMaMi",
@@ -54,8 +54,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 367363977,
-      "last_notified_release_published_at": "2026-08-09T03:03:42Z"
+      "last_notified_release_id": 369799181,
+      "last_notified_release_published_at": "2026-08-13T09:28:24Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -66,8 +66,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 369400222,
-      "last_notified_release_published_at": "2026-08-12T17:03:40Z"
+      "last_notified_release_id": 369689822,
+      "last_notified_release_published_at": "2026-08-13T05:42:45Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -78,8 +78,8 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 368809041,
-      "last_notified_release_published_at": "2026-08-11T20:00:05Z"
+      "last_notified_release_id": 370269592,
+      "last_notified_release_published_at": "2026-08-14T00:06:13Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
@@ -120,8 +120,8 @@
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 368104450,
-      "last_notified_release_published_at": "2026-08-10T18:01:47Z"
+      "last_notified_release_id": 370235493,
+      "last_notified_release_published_at": "2026-08-13T21:59:06Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -138,8 +138,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 369157579,
-      "last_notified_release_published_at": "2026-08-12T10:30:26Z"
+      "last_notified_release_id": 369712577,
+      "last_notified_release_published_at": "2026-08-13T06:39:54Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -240,14 +240,14 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 369623026,
-      "last_notified_release_published_at": "2026-08-13T01:52:42Z"
+      "last_notified_release_id": 369901689,
+      "last_notified_release_published_at": "2026-08-13T12:34:51Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": 368989819,
-      "last_notified_release_published_at": "2026-08-12T04:37:28Z"
+      "last_notified_release_id": 369976572,
+      "last_notified_release_published_at": "2026-08-13T15:44:41Z"
     },
     "alchaincyf/huashu-design": {
       "full_name": "alchaincyf/huashu-design",
@@ -336,8 +336,8 @@
     "EKKOLearnAI/hermes-studio": {
       "full_name": "EKKOLearnAI/hermes-studio",
       "tracked_since": "2026-06-23T04:56:00.390Z",
-      "last_notified_release_id": 367748024,
-      "last_notified_release_published_at": "2026-08-10T07:34:39Z"
+      "last_notified_release_id": 369671430,
+      "last_notified_release_published_at": "2026-08-13T04:43:15Z"
     },
     "InfiCheesy/cloudflaresub": {
       "full_name": "InfiCheesy/cloudflaresub",
@@ -378,8 +378,8 @@
     "komari-monitor/komari": {
       "full_name": "komari-monitor/komari",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 369621420,
-      "last_notified_release_published_at": "2026-08-13T01:46:56Z"
+      "last_notified_release_id": 369827947,
+      "last_notified_release_published_at": "2026-08-13T10:20:16Z"
     },
     "anysearch-ai/anysearch-skill": {
       "full_name": "anysearch-ai/anysearch-skill",
@@ -468,8 +468,8 @@
     "Kylin010/tcpfit": {
       "full_name": "Kylin010/tcpfit",
       "tracked_since": "2026-08-10T03:08:23.760Z",
-      "last_notified_release_id": 368375015,
-      "last_notified_release_published_at": "2026-08-11T06:46:20Z"
+      "last_notified_release_id": 370324760,
+      "last_notified_release_published_at": "2026-08-14T03:06:52Z"
     },
     "BigStrongSun/ccswitchmulti-fork-archive": {
       "full_name": "BigStrongSun/ccswitchmulti-fork-archive",
