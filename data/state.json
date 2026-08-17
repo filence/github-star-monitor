@@ -1,13 +1,13 @@
 {
   "global": {
-    "last_success_at": "2026-08-16T02:19:02.586Z"
+    "last_success_at": "2026-08-17T02:16:56.191Z"
   },
   "repos": {
     "Hmbown/CodeWhale": {
       "full_name": "Hmbown/CodeWhale",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 370656946,
-      "last_notified_release_published_at": "2026-08-14T15:18:07Z"
+      "last_notified_release_id": 371412790,
+      "last_notified_release_published_at": "2026-08-16T19:25:25Z"
     },
     "colbymchenry/codegraph": {
       "full_name": "colbymchenry/codegraph",
@@ -24,8 +24,8 @@
     "NousResearch/hermes-agent": {
       "full_name": "NousResearch/hermes-agent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 370200385,
-      "last_notified_release_published_at": "2026-08-13T20:37:37Z"
+      "last_notified_release_id": 371388852,
+      "last_notified_release_published_at": "2026-08-16T17:33:22Z"
     },
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
@@ -66,8 +66,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 369689822,
-      "last_notified_release_published_at": "2026-08-13T05:42:45Z"
+      "last_notified_release_id": 371375217,
+      "last_notified_release_published_at": "2026-08-16T16:32:47Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -138,8 +138,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 371133685,
-      "last_notified_release_published_at": "2026-08-15T19:07:37Z"
+      "last_notified_release_id": 371391374,
+      "last_notified_release_published_at": "2026-08-16T17:45:02Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -168,8 +168,8 @@
     "thedotmack/claude-mem": {
       "full_name": "thedotmack/claude-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 368182992,
-      "last_notified_release_published_at": "2026-08-10T20:35:46Z"
+      "last_notified_release_id": 371409429,
+      "last_notified_release_published_at": "2026-08-16T19:09:01Z"
     },
     "luongnv89/claude-howto": {
       "full_name": "luongnv89/claude-howto",
@@ -240,8 +240,8 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 370697259,
-      "last_notified_release_published_at": "2026-08-14T16:33:00Z"
+      "last_notified_release_id": 371396824,
+      "last_notified_release_published_at": "2026-08-16T18:10:22Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
@@ -282,8 +282,8 @@
     "KunAgent/Kun": {
       "full_name": "KunAgent/Kun",
       "tracked_since": "2026-06-11T05:25:14.602Z",
-      "last_notified_release_id": 371116777,
-      "last_notified_release_published_at": "2026-08-15T17:54:40Z"
+      "last_notified_release_id": 371303875,
+      "last_notified_release_published_at": "2026-08-16T11:18:17Z"
     },
     "CloakHQ/CloakBrowser": {
       "full_name": "CloakHQ/CloakBrowser",
@@ -336,8 +336,8 @@
     "EKKOLearnAI/hermes-studio": {
       "full_name": "EKKOLearnAI/hermes-studio",
       "tracked_since": "2026-06-23T04:56:00.390Z",
-      "last_notified_release_id": 371205571,
-      "last_notified_release_published_at": "2026-08-16T01:51:21Z"
+      "last_notified_release_id": 371243715,
+      "last_notified_release_published_at": "2026-08-16T05:50:14Z"
     },
     "InfiCheesy/cloudflaresub": {
       "full_name": "InfiCheesy/cloudflaresub",
@@ -426,8 +426,8 @@
     "ibsgss/TcpQuality": {
       "full_name": "ibsgss/TcpQuality",
       "tracked_since": "2026-08-01T04:17:39.926Z",
-      "last_notified_release_id": 370468124,
-      "last_notified_release_published_at": "2026-08-14T09:17:23Z"
+      "last_notified_release_id": 371286147,
+      "last_notified_release_published_at": "2026-08-16T09:40:30Z"
     },
     "zywe03/realm-xwPF": {
       "full_name": "zywe03/realm-xwPF",
