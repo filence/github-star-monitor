@@ -1,14 +1,8 @@
 {
   "global": {
-    "last_success_at": "2026-09-01T21:37:54.467Z"
+    "last_success_at": "2026-09-02T21:37:19.839Z"
   },
   "repos": {
-    "Hmbown/CodeWhale": {
-      "full_name": "Hmbown/CodeWhale",
-      "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 375279818,
-      "last_notified_release_published_at": "2026-08-23T17:39:46Z"
-    },
     "colbymchenry/codegraph": {
       "full_name": "colbymchenry/codegraph",
       "tracked_since": "2026-05-28T08:26:51.318Z",
@@ -66,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 380762965,
-      "last_notified_release_published_at": "2026-09-01T19:19:57Z"
+      "last_notified_release_id": 381405934,
+      "last_notified_release_published_at": "2026-09-02T16:16:29Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -114,8 +108,8 @@
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 378279694,
-      "last_notified_release_published_at": "2026-08-28T05:58:20Z"
+      "last_notified_release_id": 380823834,
+      "last_notified_release_published_at": "2026-09-01T21:52:15Z"
     },
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
@@ -144,8 +138,8 @@
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 379894297,
-      "last_notified_release_published_at": "2026-08-31T16:20:10Z"
+      "last_notified_release_id": 381079631,
+      "last_notified_release_published_at": "2026-09-02T08:16:03Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -240,14 +234,14 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 380639894,
-      "last_notified_release_published_at": "2026-09-01T15:54:38Z"
+      "last_notified_release_id": 381441240,
+      "last_notified_release_published_at": "2026-09-02T17:15:37Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": 380551273,
-      "last_notified_release_published_at": "2026-09-01T14:23:55Z"
+      "last_notified_release_id": 381173265,
+      "last_notified_release_published_at": "2026-09-02T11:00:33Z"
     },
     "alchaincyf/huashu-design": {
       "full_name": "alchaincyf/huashu-design",
@@ -336,8 +330,8 @@
     "EKKOLearnAI/hermes-studio": {
       "full_name": "EKKOLearnAI/hermes-studio",
       "tracked_since": "2026-06-23T04:56:00.390Z",
-      "last_notified_release_id": 380199512,
-      "last_notified_release_published_at": "2026-09-01T03:47:01Z"
+      "last_notified_release_id": 380915733,
+      "last_notified_release_published_at": "2026-09-02T01:04:38Z"
     },
     "InfiCheesy/cloudflaresub": {
       "full_name": "InfiCheesy/cloudflaresub",
@@ -378,14 +372,14 @@
     "komari-monitor/komari": {
       "full_name": "komari-monitor/komari",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 380307217,
-      "last_notified_release_published_at": "2026-09-01T07:55:22Z"
+      "last_notified_release_id": 381077929,
+      "last_notified_release_published_at": "2026-09-02T08:13:15Z"
     },
     "anysearch-ai/anysearch-skill": {
       "full_name": "anysearch-ai/anysearch-skill",
       "tracked_since": "2026-07-09T04:46:24.076Z",
-      "last_notified_release_id": 374247556,
-      "last_notified_release_published_at": "2026-08-21T08:03:34Z"
+      "last_notified_release_id": 380944223,
+      "last_notified_release_published_at": "2026-09-02T02:43:59Z"
     },
     "emilkowalski/skills": {
       "full_name": "emilkowalski/skills",
@@ -426,8 +420,8 @@
     "ibsgss/TcpQuality": {
       "full_name": "ibsgss/TcpQuality",
       "tracked_since": "2026-08-01T04:17:39.926Z",
-      "last_notified_release_id": 377803539,
-      "last_notified_release_published_at": "2026-08-27T12:27:34Z"
+      "last_notified_release_id": 380989413,
+      "last_notified_release_published_at": "2026-09-02T05:09:23Z"
     },
     "zywe03/realm-xwPF": {
       "full_name": "zywe03/realm-xwPF",
@@ -492,8 +486,8 @@
     "deepseek-ai/deepseek-harness": {
       "full_name": "deepseek-ai/deepseek-harness",
       "tracked_since": "2026-08-15T02:10:43.744Z",
-      "last_notified_release_id": 380633709,
-      "last_notified_release_published_at": "2026-09-01T15:45:07Z"
+      "last_notified_release_id": 381145530,
+      "last_notified_release_published_at": "2026-09-02T10:02:56Z"
     },
     "pmman289/link42": {
       "full_name": "pmman289/link42",
@@ -504,8 +498,8 @@
     "shanyang242/Komari-Theme-LuminaPlus": {
       "full_name": "shanyang242/Komari-Theme-LuminaPlus",
       "tracked_since": "2026-08-18T19:27:45.306Z",
-      "last_notified_release_id": 377640118,
-      "last_notified_release_published_at": "2026-08-27T07:39:09Z"
+      "last_notified_release_id": 381016504,
+      "last_notified_release_published_at": "2026-09-02T06:19:54Z"
     },
     "stqfdyr/komari-theme-Lumina": {
       "full_name": "stqfdyr/komari-theme-Lumina",
@@ -546,8 +540,26 @@
     "ike-sh/NoBrand-OneClick": {
       "full_name": "ike-sh/NoBrand-OneClick",
       "tracked_since": "2026-08-29T02:00:04.952Z",
-      "last_notified_release_id": 379521458,
-      "last_notified_release_published_at": "2026-08-31T05:06:20Z"
+      "last_notified_release_id": 381104657,
+      "last_notified_release_published_at": "2026-09-02T08:56:22Z"
+    },
+    "z-mio/parse_hub_bot": {
+      "full_name": "z-mio/parse_hub_bot",
+      "tracked_since": "2026-09-02T21:37:19.839Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "huilang-me/CF-Server-Monitor": {
+      "full_name": "huilang-me/CF-Server-Monitor",
+      "tracked_since": "2026-09-02T21:37:19.839Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
+    },
+    "Hmbown/Codewhale": {
+      "full_name": "Hmbown/Codewhale",
+      "tracked_since": "2026-09-02T21:37:19.839Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
     }
   }
 }
