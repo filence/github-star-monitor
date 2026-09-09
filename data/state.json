@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-09-08T21:37:44.187Z"
+    "last_success_at": "2026-09-09T21:31:33.899Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 384472964,
-      "last_notified_release_published_at": "2026-09-08T05:46:45Z"
+      "last_notified_release_id": 385254993,
+      "last_notified_release_published_at": "2026-09-09T05:50:57Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 384421032,
-      "last_notified_release_published_at": "2026-09-08T03:06:38Z"
+      "last_notified_release_id": 385356660,
+      "last_notified_release_published_at": "2026-09-09T08:50:47Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -72,8 +72,8 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 379358463,
-      "last_notified_release_published_at": "2026-08-30T18:19:02Z"
+      "last_notified_release_id": 385291663,
+      "last_notified_release_published_at": "2026-09-09T07:29:26Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
@@ -84,8 +84,8 @@
     "tanweai/pua": {
       "full_name": "tanweai/pua",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 338490427,
-      "last_notified_release_published_at": "2026-06-12T09:45:32Z"
+      "last_notified_release_id": 385421193,
+      "last_notified_release_published_at": "2026-09-09T10:28:32Z"
     },
     "tickernelz/opencode-mem": {
       "full_name": "tickernelz/opencode-mem",
@@ -108,14 +108,14 @@
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 383062420,
-      "last_notified_release_published_at": "2026-09-04T23:47:16Z"
+      "last_notified_release_id": 385202354,
+      "last_notified_release_published_at": "2026-09-09T03:34:27Z"
     },
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 383338983,
-      "last_notified_release_published_at": "2026-09-05T18:42:44Z"
+      "last_notified_release_id": 385853572,
+      "last_notified_release_published_at": "2026-09-09T21:22:14Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -138,8 +138,8 @@
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 384971771,
-      "last_notified_release_published_at": "2026-09-08T18:33:45Z"
+      "last_notified_release_id": 385431566,
+      "last_notified_release_published_at": "2026-09-09T10:45:49Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -162,8 +162,8 @@
     "thedotmack/claude-mem": {
       "full_name": "thedotmack/claude-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 383143620,
-      "last_notified_release_published_at": "2026-09-05T05:22:42Z"
+      "last_notified_release_id": 385685372,
+      "last_notified_release_published_at": "2026-09-09T16:36:28Z"
     },
     "luongnv89/claude-howto": {
       "full_name": "luongnv89/claude-howto",
@@ -234,14 +234,14 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 384784745,
-      "last_notified_release_published_at": "2026-09-08T14:07:09Z"
+      "last_notified_release_id": 385161423,
+      "last_notified_release_published_at": "2026-09-09T01:18:27Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": 384412961,
-      "last_notified_release_published_at": "2026-09-08T04:33:53Z"
+      "last_notified_release_id": 385495507,
+      "last_notified_release_published_at": "2026-09-09T18:47:13Z"
     },
     "alchaincyf/huashu-design": {
       "full_name": "alchaincyf/huashu-design",
@@ -294,8 +294,8 @@
     "mvanhorn/last30days-skill": {
       "full_name": "mvanhorn/last30days-skill",
       "tracked_since": "2026-06-12T05:27:47.839Z",
-      "last_notified_release_id": 384414676,
-      "last_notified_release_published_at": "2026-09-08T02:45:29Z"
+      "last_notified_release_id": 385288073,
+      "last_notified_release_published_at": "2026-09-09T07:01:28Z"
     },
     "nashsu/llm_wiki": {
       "full_name": "nashsu/llm_wiki",
@@ -330,8 +330,8 @@
     "EKKOLearnAI/hermes-studio": {
       "full_name": "EKKOLearnAI/hermes-studio",
       "tracked_since": "2026-06-23T04:56:00.390Z",
-      "last_notified_release_id": 383471502,
-      "last_notified_release_published_at": "2026-09-06T05:02:30Z"
+      "last_notified_release_id": 385152310,
+      "last_notified_release_published_at": "2026-09-09T00:52:40Z"
     },
     "InfiCheesy/cloudflaresub": {
       "full_name": "InfiCheesy/cloudflaresub",
@@ -366,14 +366,14 @@
     "Teminuosi/3x-ui": {
       "full_name": "Teminuosi/3x-ui",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 384770879,
-      "last_notified_release_published_at": "2026-09-08T13:51:17Z"
+      "last_notified_release_id": 385448873,
+      "last_notified_release_published_at": "2026-09-09T11:15:03Z"
     },
     "komari-monitor/komari": {
       "full_name": "komari-monitor/komari",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 382574036,
-      "last_notified_release_published_at": "2026-09-04T08:21:27Z"
+      "last_notified_release_id": 385373537,
+      "last_notified_release_published_at": "2026-09-09T09:17:22Z"
     },
     "anysearch-ai/anysearch-skill": {
       "full_name": "anysearch-ai/anysearch-skill",
@@ -486,8 +486,8 @@
     "deepseek-ai/deepseek-harness": {
       "full_name": "deepseek-ai/deepseek-harness",
       "tracked_since": "2026-08-15T02:10:43.744Z",
-      "last_notified_release_id": 384887562,
-      "last_notified_release_published_at": "2026-09-08T16:16:04Z"
+      "last_notified_release_id": 385585674,
+      "last_notified_release_published_at": "2026-09-09T14:23:10Z"
     },
     "pmman289/link42": {
       "full_name": "pmman289/link42",
@@ -576,8 +576,8 @@
     "jlcodes99/cockpit-tools": {
       "full_name": "jlcodes99/cockpit-tools",
       "tracked_since": "2026-09-06T21:05:47.982Z",
-      "last_notified_release_id": 385019747,
-      "last_notified_release_published_at": "2026-09-08T19:50:51Z"
+      "last_notified_release_id": 385409632,
+      "last_notified_release_published_at": "2026-09-09T10:09:17Z"
     }
   }
 }
