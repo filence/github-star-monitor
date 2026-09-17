@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-09-16T21:56:02.269Z"
+    "last_success_at": "2026-09-17T21:56:15.447Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 389666335,
-      "last_notified_release_published_at": "2026-09-16T05:50:34Z"
+      "last_notified_release_id": 390466439,
+      "last_notified_release_published_at": "2026-09-17T05:57:38Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 389774689,
-      "last_notified_release_published_at": "2026-09-16T09:10:56Z"
+      "last_notified_release_id": 391009137,
+      "last_notified_release_published_at": "2026-09-17T19:40:14Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -114,8 +114,8 @@
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 388734652,
-      "last_notified_release_published_at": "2026-09-14T21:53:05Z"
+      "last_notified_release_id": 390357533,
+      "last_notified_release_published_at": "2026-09-17T00:37:17Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -132,20 +132,20 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 390283669,
-      "last_notified_release_published_at": "2026-09-16T21:23:18Z"
+      "last_notified_release_id": 390996147,
+      "last_notified_release_published_at": "2026-09-17T19:19:20Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 390210539,
-      "last_notified_release_published_at": "2026-09-16T19:30:49Z"
+      "last_notified_release_id": 391083112,
+      "last_notified_release_published_at": "2026-09-17T21:51:45Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 356382939,
-      "last_notified_release_published_at": "2026-07-19T17:00:26Z"
+      "last_notified_release_id": 390637363,
+      "last_notified_release_published_at": "2026-09-17T11:36:23Z"
     },
     "KKKKhazix/khazix-skills": {
       "full_name": "KKKKhazix/khazix-skills",
@@ -234,8 +234,8 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 390131504,
-      "last_notified_release_published_at": "2026-09-16T17:32:19Z"
+      "last_notified_release_id": 390585076,
+      "last_notified_release_published_at": "2026-09-17T09:33:29Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
@@ -486,8 +486,8 @@
     "deepseek-ai/deepseek-harness": {
       "full_name": "deepseek-ai/deepseek-harness",
       "tracked_since": "2026-08-15T02:10:43.744Z",
-      "last_notified_release_id": 388877007,
-      "last_notified_release_published_at": "2026-09-15T04:57:57Z"
+      "last_notified_release_id": 390743959,
+      "last_notified_release_published_at": "2026-09-17T13:30:16Z"
     },
     "pmman289/link42": {
       "full_name": "pmman289/link42",
@@ -498,8 +498,8 @@
     "shanyang242/Komari-Theme-LuminaPlus": {
       "full_name": "shanyang242/Komari-Theme-LuminaPlus",
       "tracked_since": "2026-08-18T19:27:45.306Z",
-      "last_notified_release_id": 386151972,
-      "last_notified_release_published_at": "2026-09-10T09:31:35Z"
+      "last_notified_release_id": 390544512,
+      "last_notified_release_published_at": "2026-09-17T08:29:40Z"
     },
     "stqfdyr/komari-theme-Lumina": {
       "full_name": "stqfdyr/komari-theme-Lumina",
