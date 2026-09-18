@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-09-17T21:56:15.447Z"
+    "last_success_at": "2026-09-18T21:26:41.750Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 390466439,
-      "last_notified_release_published_at": "2026-09-17T05:57:38Z"
+      "last_notified_release_id": 391735933,
+      "last_notified_release_published_at": "2026-09-18T19:30:37Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 391009137,
-      "last_notified_release_published_at": "2026-09-17T19:40:14Z"
+      "last_notified_release_id": 391716379,
+      "last_notified_release_published_at": "2026-09-18T18:58:23Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -114,8 +114,8 @@
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 390357533,
-      "last_notified_release_published_at": "2026-09-17T00:37:17Z"
+      "last_notified_release_id": 391137569,
+      "last_notified_release_published_at": "2026-09-18T00:30:22Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -132,14 +132,14 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 390996147,
-      "last_notified_release_published_at": "2026-09-17T19:19:20Z"
+      "last_notified_release_id": 391791121,
+      "last_notified_release_published_at": "2026-09-18T21:17:57Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 391083112,
-      "last_notified_release_published_at": "2026-09-17T21:51:45Z"
+      "last_notified_release_id": 391740142,
+      "last_notified_release_published_at": "2026-09-18T19:38:13Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -234,8 +234,8 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 390585076,
-      "last_notified_release_published_at": "2026-09-17T09:33:29Z"
+      "last_notified_release_id": 391189330,
+      "last_notified_release_published_at": "2026-09-18T03:12:12Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
@@ -294,8 +294,8 @@
     "mvanhorn/last30days-skill": {
       "full_name": "mvanhorn/last30days-skill",
       "tracked_since": "2026-06-12T05:27:47.839Z",
-      "last_notified_release_id": 385288073,
-      "last_notified_release_published_at": "2026-09-09T07:01:28Z"
+      "last_notified_release_id": 391753413,
+      "last_notified_release_published_at": "2026-09-18T20:03:25Z"
     },
     "nashsu/llm_wiki": {
       "full_name": "nashsu/llm_wiki",
@@ -330,8 +330,8 @@
     "EKKOLearnAI/hermes-studio": {
       "full_name": "EKKOLearnAI/hermes-studio",
       "tracked_since": "2026-06-23T04:56:00.390Z",
-      "last_notified_release_id": 389594084,
-      "last_notified_release_published_at": "2026-09-16T02:15:57Z"
+      "last_notified_release_id": 391439808,
+      "last_notified_release_published_at": "2026-09-18T11:58:55Z"
     },
     "InfiCheesy/cloudflaresub": {
       "full_name": "InfiCheesy/cloudflaresub",
@@ -576,8 +576,14 @@
     "jlcodes99/cockpit-tools": {
       "full_name": "jlcodes99/cockpit-tools",
       "tracked_since": "2026-09-06T21:05:47.982Z",
-      "last_notified_release_id": 389739631,
-      "last_notified_release_published_at": "2026-09-16T08:15:33Z"
+      "last_notified_release_id": 391148994,
+      "last_notified_release_published_at": "2026-09-18T01:04:04Z"
+    },
+    "aoaostar/legado": {
+      "full_name": "aoaostar/legado",
+      "tracked_since": "2026-09-18T21:26:41.750Z",
+      "last_notified_release_id": null,
+      "last_notified_release_published_at": null
     }
   }
 }
