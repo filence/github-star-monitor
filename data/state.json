@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-09-18T21:26:41.750Z"
+    "last_success_at": "2026-09-19T21:19:36.606Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 391735933,
-      "last_notified_release_published_at": "2026-09-18T19:30:37Z"
+      "last_notified_release_id": 392216123,
+      "last_notified_release_published_at": "2026-09-19T21:15:02Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 391716379,
-      "last_notified_release_published_at": "2026-09-18T18:58:23Z"
+      "last_notified_release_id": 392001175,
+      "last_notified_release_published_at": "2026-09-19T08:41:48Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -72,8 +72,8 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 388338680,
-      "last_notified_release_published_at": "2026-09-14T11:37:04Z"
+      "last_notified_release_id": 392104584,
+      "last_notified_release_published_at": "2026-09-19T15:10:01Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
@@ -102,8 +102,8 @@
     "alvinunreal/oh-my-opencode-slim": {
       "full_name": "alvinunreal/oh-my-opencode-slim",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 390152867,
-      "last_notified_release_published_at": "2026-09-16T18:04:08Z"
+      "last_notified_release_id": 392212071,
+      "last_notified_release_published_at": "2026-09-19T20:56:25Z"
     },
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
@@ -114,8 +114,8 @@
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 391137569,
-      "last_notified_release_published_at": "2026-09-18T00:30:22Z"
+      "last_notified_release_id": 391834486,
+      "last_notified_release_published_at": "2026-09-18T23:12:44Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -132,14 +132,14 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 391791121,
-      "last_notified_release_published_at": "2026-09-18T21:17:57Z"
+      "last_notified_release_id": 392168681,
+      "last_notified_release_published_at": "2026-09-19T18:08:09Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 391740142,
-      "last_notified_release_published_at": "2026-09-18T19:38:13Z"
+      "last_notified_release_id": 392119312,
+      "last_notified_release_published_at": "2026-09-19T15:31:15Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -222,8 +222,8 @@
     "obra/superpowers": {
       "full_name": "obra/superpowers",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 369397031,
-      "last_notified_release_published_at": "2026-08-12T16:58:30Z"
+      "last_notified_release_id": 391860375,
+      "last_notified_release_published_at": "2026-09-19T00:32:44Z"
     },
     "eze-is/web-access": {
       "full_name": "eze-is/web-access",
@@ -438,8 +438,8 @@
     "daimon3332/address": {
       "full_name": "daimon3332/address",
       "tracked_since": "2026-08-04T04:08:00.953Z",
-      "last_notified_release_id": 379725463,
-      "last_notified_release_published_at": "2026-08-31T12:11:57Z"
+      "last_notified_release_id": 392137715,
+      "last_notified_release_published_at": "2026-09-19T16:33:58Z"
     },
     "fscarmen/sing-box": {
       "full_name": "fscarmen/sing-box",
@@ -546,8 +546,8 @@
     "z-mio/parse_hub_bot": {
       "full_name": "z-mio/parse_hub_bot",
       "tracked_since": "2026-09-02T21:37:19.839Z",
-      "last_notified_release_id": 389823546,
-      "last_notified_release_published_at": "2026-09-16T10:23:51Z"
+      "last_notified_release_id": 391893428,
+      "last_notified_release_published_at": "2026-09-19T02:59:21Z"
     },
     "huilang-me/CF-Server-Monitor": {
       "full_name": "huilang-me/CF-Server-Monitor",
