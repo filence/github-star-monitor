@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-09-19T21:19:36.606Z"
+    "last_success_at": "2026-09-20T21:12:25.375Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 392001175,
-      "last_notified_release_published_at": "2026-09-19T08:41:48Z"
+      "last_notified_release_id": 392374187,
+      "last_notified_release_published_at": "2026-09-20T09:10:09Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -72,8 +72,8 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 392104584,
-      "last_notified_release_published_at": "2026-09-19T15:10:01Z"
+      "last_notified_release_id": 392360296,
+      "last_notified_release_published_at": "2026-09-20T08:41:44Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
@@ -138,14 +138,14 @@
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 392119312,
-      "last_notified_release_published_at": "2026-09-19T15:31:15Z"
+      "last_notified_release_id": 392533928,
+      "last_notified_release_published_at": "2026-09-20T18:38:59Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 390637363,
-      "last_notified_release_published_at": "2026-09-17T11:36:23Z"
+      "last_notified_release_id": 392414902,
+      "last_notified_release_published_at": "2026-09-20T12:28:55Z"
     },
     "KKKKhazix/khazix-skills": {
       "full_name": "KKKKhazix/khazix-skills",
@@ -234,8 +234,8 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 391189330,
-      "last_notified_release_published_at": "2026-09-18T03:12:12Z"
+      "last_notified_release_id": 392531287,
+      "last_notified_release_published_at": "2026-09-20T18:29:54Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
@@ -318,8 +318,8 @@
     "notesynchelper/shoujidiannao": {
       "full_name": "notesynchelper/shoujidiannao",
       "tracked_since": "2026-06-18T05:52:04.211Z",
-      "last_notified_release_id": 371495425,
-      "last_notified_release_published_at": "2026-08-17T02:20:21Z"
+      "last_notified_release_id": 392346334,
+      "last_notified_release_published_at": "2026-09-20T07:17:48Z"
     },
     "garden-cosmos/natural-chinese-protocol": {
       "full_name": "garden-cosmos/natural-chinese-protocol",
@@ -354,8 +354,8 @@
     "2dust/v2rayN": {
       "full_name": "2dust/v2rayN",
       "tracked_since": "2026-07-04T04:30:27.773Z",
-      "last_notified_release_id": 385950518,
-      "last_notified_release_published_at": "2026-09-10T01:44:13Z"
+      "last_notified_release_id": 392288380,
+      "last_notified_release_published_at": "2026-09-20T02:32:04Z"
     },
     "mattpocock/skills": {
       "full_name": "mattpocock/skills",
