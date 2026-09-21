@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-09-20T21:12:25.375Z"
+    "last_success_at": "2026-09-21T22:28:16.975Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -18,8 +18,8 @@
     "NousResearch/hermes-agent": {
       "full_name": "NousResearch/hermes-agent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 388531783,
-      "last_notified_release_published_at": "2026-09-14T16:04:14Z"
+      "last_notified_release_id": 393186039,
+      "last_notified_release_published_at": "2026-09-21T18:10:55Z"
     },
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 392216123,
-      "last_notified_release_published_at": "2026-09-19T21:15:02Z"
+      "last_notified_release_id": 393332071,
+      "last_notified_release_published_at": "2026-09-21T22:16:44Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 392374187,
-      "last_notified_release_published_at": "2026-09-20T09:10:09Z"
+      "last_notified_release_id": 392842589,
+      "last_notified_release_published_at": "2026-09-21T09:47:03Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -72,8 +72,8 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 392360296,
-      "last_notified_release_published_at": "2026-09-20T08:41:44Z"
+      "last_notified_release_id": 392942596,
+      "last_notified_release_published_at": "2026-09-21T12:50:07Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
@@ -132,14 +132,14 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 392168681,
-      "last_notified_release_published_at": "2026-09-19T18:08:09Z"
+      "last_notified_release_id": 393042551,
+      "last_notified_release_published_at": "2026-09-21T14:43:42Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 392533928,
-      "last_notified_release_published_at": "2026-09-20T18:38:59Z"
+      "last_notified_release_id": 392949425,
+      "last_notified_release_published_at": "2026-09-21T12:41:00Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -318,8 +318,8 @@
     "notesynchelper/shoujidiannao": {
       "full_name": "notesynchelper/shoujidiannao",
       "tracked_since": "2026-06-18T05:52:04.211Z",
-      "last_notified_release_id": 392346334,
-      "last_notified_release_published_at": "2026-09-20T07:17:48Z"
+      "last_notified_release_id": 392729776,
+      "last_notified_release_published_at": "2026-09-21T07:14:46Z"
     },
     "garden-cosmos/natural-chinese-protocol": {
       "full_name": "garden-cosmos/natural-chinese-protocol",
