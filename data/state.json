@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-09-24T22:02:06.651Z"
+    "last_success_at": "2026-09-25T22:00:44.818Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 395746752,
-      "last_notified_release_published_at": "2026-09-24T13:58:16Z"
+      "last_notified_release_id": 396679909,
+      "last_notified_release_published_at": "2026-09-25T14:30:46Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 394850954,
-      "last_notified_release_published_at": "2026-09-23T16:28:32Z"
+      "last_notified_release_id": 396777705,
+      "last_notified_release_published_at": "2026-09-25T16:53:41Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -102,8 +102,8 @@
     "alvinunreal/oh-my-opencode-slim": {
       "full_name": "alvinunreal/oh-my-opencode-slim",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 392212071,
-      "last_notified_release_published_at": "2026-09-19T20:56:25Z"
+      "last_notified_release_id": 396790692,
+      "last_notified_release_published_at": "2026-09-25T17:14:20Z"
     },
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
@@ -138,8 +138,8 @@
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 395427608,
-      "last_notified_release_published_at": "2026-09-24T07:16:15Z"
+      "last_notified_release_id": 396163268,
+      "last_notified_release_published_at": "2026-09-24T23:46:20Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -222,8 +222,8 @@
     "obra/superpowers": {
       "full_name": "obra/superpowers",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 391860375,
-      "last_notified_release_published_at": "2026-09-19T00:32:44Z"
+      "last_notified_release_id": 396823672,
+      "last_notified_release_published_at": "2026-09-25T18:08:09Z"
     },
     "eze-is/web-access": {
       "full_name": "eze-is/web-access",
@@ -240,8 +240,8 @@
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
       "tracked_since": "2026-05-31T05:14:56.960Z",
-      "last_notified_release_id": 392798157,
-      "last_notified_release_published_at": "2026-09-22T10:00:53Z"
+      "last_notified_release_id": 396348753,
+      "last_notified_release_published_at": "2026-09-25T06:20:46Z"
     },
     "alchaincyf/huashu-design": {
       "full_name": "alchaincyf/huashu-design",
@@ -522,8 +522,8 @@
     "enfein/mieru": {
       "full_name": "enfein/mieru",
       "tracked_since": "2026-08-21T19:26:17.630Z",
-      "last_notified_release_id": 387778811,
-      "last_notified_release_published_at": "2026-09-13T03:20:58Z"
+      "last_notified_release_id": 396135107,
+      "last_notified_release_published_at": "2026-09-24T23:03:15Z"
     },
     "cedar2025/Xboard": {
       "full_name": "cedar2025/Xboard",
@@ -570,8 +570,8 @@
     "jlcodes99/cockpit-tools": {
       "full_name": "jlcodes99/cockpit-tools",
       "tracked_since": "2026-09-06T21:05:47.982Z",
-      "last_notified_release_id": 394261686,
-      "last_notified_release_published_at": "2026-09-23T02:42:46Z"
+      "last_notified_release_id": 396698564,
+      "last_notified_release_published_at": "2026-09-25T14:55:30Z"
     },
     "aoaostar/legado": {
       "full_name": "aoaostar/legado",
