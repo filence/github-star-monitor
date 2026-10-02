@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-10-01T23:00:53.472Z"
+    "last_success_at": "2026-10-02T22:49:44.096Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 400720162,
-      "last_notified_release_published_at": "2026-10-01T07:04:52Z"
+      "last_notified_release_id": 401596594,
+      "last_notified_release_published_at": "2026-10-02T06:52:36Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -72,8 +72,8 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 400811514,
-      "last_notified_release_published_at": "2026-10-01T09:41:46Z"
+      "last_notified_release_id": 401930653,
+      "last_notified_release_published_at": "2026-10-02T16:02:28Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
@@ -90,8 +90,8 @@
     "tickernelz/opencode-mem": {
       "full_name": "tickernelz/opencode-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 401332463,
-      "last_notified_release_published_at": "2026-10-01T20:34:36Z"
+      "last_notified_release_id": 402185817,
+      "last_notified_release_published_at": "2026-10-02T22:05:35Z"
     },
     "supermemoryai/supermemory": {
       "full_name": "supermemoryai/supermemory",
@@ -102,8 +102,8 @@
     "alvinunreal/oh-my-opencode-slim": {
       "full_name": "alvinunreal/oh-my-opencode-slim",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 399082106,
-      "last_notified_release_published_at": "2026-09-29T11:30:36Z"
+      "last_notified_release_id": 401727220,
+      "last_notified_release_published_at": "2026-10-02T10:32:47Z"
     },
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
@@ -132,20 +132,20 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 401374219,
-      "last_notified_release_published_at": "2026-10-01T21:36:03Z"
+      "last_notified_release_id": 402129747,
+      "last_notified_release_published_at": "2026-10-02T20:21:45Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 401079211,
-      "last_notified_release_published_at": "2026-10-01T15:00:33Z"
+      "last_notified_release_id": 402071705,
+      "last_notified_release_published_at": "2026-10-02T18:48:34Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 397051617,
-      "last_notified_release_published_at": "2026-09-26T04:11:55Z"
+      "last_notified_release_id": 401949195,
+      "last_notified_release_published_at": "2026-10-02T16:25:43Z"
     },
     "KKKKhazix/khazix-skills": {
       "full_name": "KKKKhazix/khazix-skills",
@@ -234,8 +234,8 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 400633643,
-      "last_notified_release_published_at": "2026-10-01T03:46:30Z"
+      "last_notified_release_id": 401831085,
+      "last_notified_release_published_at": "2026-10-02T13:12:57Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
@@ -582,8 +582,8 @@
     "EKKOLearnAI/ekko-studio": {
       "full_name": "EKKOLearnAI/ekko-studio",
       "tracked_since": "2026-09-22T21:49:40.302Z",
-      "last_notified_release_id": 400056959,
-      "last_notified_release_published_at": "2026-09-30T13:07:23Z"
+      "last_notified_release_id": 401939954,
+      "last_notified_release_published_at": "2026-10-02T15:33:09Z"
     }
   }
 }
