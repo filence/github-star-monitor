@@ -1,13 +1,13 @@
 {
   "global": {
-    "last_success_at": "2026-10-02T22:49:44.096Z"
+    "last_success_at": "2026-10-03T22:00:49.943Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
       "full_name": "colbymchenry/codegraph",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 398839286,
-      "last_notified_release_published_at": "2026-09-29T05:08:55Z"
+      "last_notified_release_id": 402371047,
+      "last_notified_release_published_at": "2026-10-03T06:41:20Z"
     },
     "fathah/hermes-desktop": {
       "full_name": "fathah/hermes-desktop",
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 401596594,
-      "last_notified_release_published_at": "2026-10-02T06:52:36Z"
+      "last_notified_release_id": 402535360,
+      "last_notified_release_published_at": "2026-10-03T13:56:24Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 397361342,
-      "last_notified_release_published_at": "2026-09-26T19:09:05Z"
+      "last_notified_release_id": 402631741,
+      "last_notified_release_published_at": "2026-10-03T18:09:54Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -90,8 +90,8 @@
     "tickernelz/opencode-mem": {
       "full_name": "tickernelz/opencode-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 402185817,
-      "last_notified_release_published_at": "2026-10-02T22:05:35Z"
+      "last_notified_release_id": 402652024,
+      "last_notified_release_published_at": "2026-10-03T19:07:28Z"
     },
     "supermemoryai/supermemory": {
       "full_name": "supermemoryai/supermemory",
@@ -132,14 +132,14 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 402129747,
-      "last_notified_release_published_at": "2026-10-02T20:21:45Z"
+      "last_notified_release_id": 402425238,
+      "last_notified_release_published_at": "2026-10-03T09:02:46Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 402071705,
-      "last_notified_release_published_at": "2026-10-02T18:48:34Z"
+      "last_notified_release_id": 402451019,
+      "last_notified_release_published_at": "2026-10-03T10:08:15Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -162,8 +162,8 @@
     "thedotmack/claude-mem": {
       "full_name": "thedotmack/claude-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 397351603,
-      "last_notified_release_published_at": "2026-09-26T18:37:19Z"
+      "last_notified_release_id": 402348109,
+      "last_notified_release_published_at": "2026-10-03T05:35:46Z"
     },
     "luongnv89/claude-howto": {
       "full_name": "luongnv89/claude-howto",
@@ -174,8 +174,8 @@
     "Yeachan-Heo/oh-my-claudecode": {
       "full_name": "Yeachan-Heo/oh-my-claudecode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 400669958,
-      "last_notified_release_published_at": "2026-10-01T05:18:28Z"
+      "last_notified_release_id": 402372226,
+      "last_notified_release_published_at": "2026-10-03T06:44:34Z"
     },
     "lonr-6/cc-desktop-switch": {
       "full_name": "lonr-6/cc-desktop-switch",
@@ -480,8 +480,8 @@
     "deepseek-ai/deepseek-harness": {
       "full_name": "deepseek-ai/deepseek-harness",
       "tracked_since": "2026-08-15T02:10:43.744Z",
-      "last_notified_release_id": 399005027,
-      "last_notified_release_published_at": "2026-09-29T09:42:36Z"
+      "last_notified_release_id": 402371422,
+      "last_notified_release_published_at": "2026-10-03T06:42:19Z"
     },
     "pmman289/link42": {
       "full_name": "pmman289/link42",
@@ -582,8 +582,8 @@
     "EKKOLearnAI/ekko-studio": {
       "full_name": "EKKOLearnAI/ekko-studio",
       "tracked_since": "2026-09-22T21:49:40.302Z",
-      "last_notified_release_id": 401939954,
-      "last_notified_release_published_at": "2026-10-02T15:33:09Z"
+      "last_notified_release_id": 402280089,
+      "last_notified_release_published_at": "2026-10-03T02:21:26Z"
     }
   }
 }
