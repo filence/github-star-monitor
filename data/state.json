@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-10-03T22:00:49.943Z"
+    "last_success_at": "2026-10-04T22:13:24.026Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 402535360,
-      "last_notified_release_published_at": "2026-10-03T13:56:24Z"
+      "last_notified_release_id": 402882751,
+      "last_notified_release_published_at": "2026-10-04T06:43:52Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 402631741,
-      "last_notified_release_published_at": "2026-10-03T18:09:54Z"
+      "last_notified_release_id": 403042463,
+      "last_notified_release_published_at": "2026-10-04T13:50:59Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -72,8 +72,8 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 401930653,
-      "last_notified_release_published_at": "2026-10-02T16:02:28Z"
+      "last_notified_release_id": 403147509,
+      "last_notified_release_published_at": "2026-10-04T18:44:15Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
@@ -132,14 +132,14 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 402425238,
-      "last_notified_release_published_at": "2026-10-03T09:02:46Z"
+      "last_notified_release_id": 403224740,
+      "last_notified_release_published_at": "2026-10-04T21:51:52Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 402451019,
-      "last_notified_release_published_at": "2026-10-03T10:08:15Z"
+      "last_notified_release_id": 403106884,
+      "last_notified_release_published_at": "2026-10-04T16:31:47Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -204,8 +204,8 @@
     "farion1231/cc-switch": {
       "full_name": "farion1231/cc-switch",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 393828282,
-      "last_notified_release_published_at": "2026-09-22T14:42:23Z"
+      "last_notified_release_id": 402976255,
+      "last_notified_release_published_at": "2026-10-04T11:01:01Z"
     },
     "anthropics/skills": {
       "full_name": "anthropics/skills",
@@ -234,8 +234,8 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 401831085,
-      "last_notified_release_published_at": "2026-10-02T13:12:57Z"
+      "last_notified_release_id": 402760422,
+      "last_notified_release_published_at": "2026-10-04T00:57:33Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
@@ -354,8 +354,8 @@
     "mattpocock/skills": {
       "full_name": "mattpocock/skills",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 366267815,
-      "last_notified_release_published_at": "2026-08-06T14:05:28Z"
+      "last_notified_release_id": 403018723,
+      "last_notified_release_published_at": "2026-10-04T12:48:18Z"
     },
     "Teminuosi/3x-ui": {
       "full_name": "Teminuosi/3x-ui",
@@ -408,8 +408,8 @@
     "byJoey/Actions-bbr-v3": {
       "full_name": "byJoey/Actions-bbr-v3",
       "tracked_since": "2026-07-22T04:13:15.231Z",
-      "last_notified_release_id": 397188206,
-      "last_notified_release_published_at": "2026-09-26T10:18:45Z"
+      "last_notified_release_id": 402987918,
+      "last_notified_release_published_at": "2026-10-04T11:32:14Z"
     },
     "ibsgss/TcpQuality": {
       "full_name": "ibsgss/TcpQuality",
