@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-10-06T00:37:04.101Z"
+    "last_success_at": "2026-10-06T22:55:09.010Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -24,8 +24,8 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 374772023,
-      "last_notified_release_published_at": "2026-08-22T02:03:20Z"
+      "last_notified_release_id": 404730321,
+      "last_notified_release_published_at": "2026-10-06T13:36:33Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 403436341,
-      "last_notified_release_published_at": "2026-10-05T06:46:01Z"
+      "last_notified_release_id": 404412965,
+      "last_notified_release_published_at": "2026-10-06T07:01:26Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 403473148,
-      "last_notified_release_published_at": "2026-10-05T07:40:43Z"
+      "last_notified_release_id": 404596176,
+      "last_notified_release_published_at": "2026-10-06T10:46:34Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -78,8 +78,8 @@
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 401079593,
-      "last_notified_release_published_at": "2026-10-01T15:00:58Z"
+      "last_notified_release_id": 404855919,
+      "last_notified_release_published_at": "2026-10-06T15:01:49Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -90,8 +90,8 @@
     "tickernelz/opencode-mem": {
       "full_name": "tickernelz/opencode-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 403987942,
-      "last_notified_release_published_at": "2026-10-05T18:02:01Z"
+      "last_notified_release_id": 405049887,
+      "last_notified_release_published_at": "2026-10-06T19:00:54Z"
     },
     "supermemoryai/supermemory": {
       "full_name": "supermemoryai/supermemory",
@@ -102,14 +102,14 @@
     "alvinunreal/oh-my-opencode-slim": {
       "full_name": "alvinunreal/oh-my-opencode-slim",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 401727220,
-      "last_notified_release_published_at": "2026-10-02T10:32:47Z"
+      "last_notified_release_id": 405059495,
+      "last_notified_release_published_at": "2026-10-06T19:13:15Z"
     },
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 400477810,
-      "last_notified_release_published_at": "2026-09-30T22:39:45Z"
+      "last_notified_release_id": 405094028,
+      "last_notified_release_published_at": "2026-10-06T20:18:39Z"
     },
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
@@ -138,8 +138,8 @@
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 403347930,
-      "last_notified_release_published_at": "2026-10-05T03:45:02Z"
+      "last_notified_release_id": 404779590,
+      "last_notified_release_published_at": "2026-10-06T13:49:00Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -162,8 +162,8 @@
     "thedotmack/claude-mem": {
       "full_name": "thedotmack/claude-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 403386088,
-      "last_notified_release_published_at": "2026-10-05T05:17:54Z"
+      "last_notified_release_id": 405016916,
+      "last_notified_release_published_at": "2026-10-06T18:17:47Z"
     },
     "luongnv89/claude-howto": {
       "full_name": "luongnv89/claude-howto",
@@ -174,8 +174,8 @@
     "Yeachan-Heo/oh-my-claudecode": {
       "full_name": "Yeachan-Heo/oh-my-claudecode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 402372226,
-      "last_notified_release_published_at": "2026-10-03T06:44:34Z"
+      "last_notified_release_id": 404375495,
+      "last_notified_release_published_at": "2026-10-06T06:15:10Z"
     },
     "lonr-6/cc-desktop-switch": {
       "full_name": "lonr-6/cc-desktop-switch",
@@ -204,8 +204,8 @@
     "farion1231/cc-switch": {
       "full_name": "farion1231/cc-switch",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 403959592,
-      "last_notified_release_published_at": "2026-10-05T17:24:46Z"
+      "last_notified_release_id": 404760086,
+      "last_notified_release_published_at": "2026-10-06T13:38:10Z"
     },
     "anthropics/skills": {
       "full_name": "anthropics/skills",
@@ -234,8 +234,8 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 403284442,
-      "last_notified_release_published_at": "2026-10-05T00:54:26Z"
+      "last_notified_release_id": 404311843,
+      "last_notified_release_published_at": "2026-10-06T04:27:07Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
@@ -282,8 +282,8 @@
     "CloakHQ/CloakBrowser": {
       "full_name": "CloakHQ/CloakBrowser",
       "tracked_since": "2026-06-12T05:27:47.839Z",
-      "last_notified_release_id": 394936193,
-      "last_notified_release_published_at": "2026-09-23T18:18:01Z"
+      "last_notified_release_id": 405012614,
+      "last_notified_release_published_at": "2026-10-06T18:13:05Z"
     },
     "Panniantong/Agent-Reach": {
       "full_name": "Panniantong/Agent-Reach",
