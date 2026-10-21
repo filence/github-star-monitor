@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-10-20T22:08:59.980Z"
+    "last_success_at": "2026-10-21T22:09:19.380Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -18,8 +18,8 @@
     "NousResearch/hermes-agent": {
       "full_name": "NousResearch/hermes-agent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 413474259,
-      "last_notified_release_published_at": "2026-10-15T08:21:32Z"
+      "last_notified_release_id": 419822356,
+      "last_notified_release_published_at": "2026-10-21T18:49:24Z"
     },
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 418925607,
-      "last_notified_release_published_at": "2026-10-20T22:03:54Z"
+      "last_notified_release_id": 419648064,
+      "last_notified_release_published_at": "2026-10-21T14:17:35Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 417746652,
-      "last_notified_release_published_at": "2026-10-19T20:58:14Z"
+      "last_notified_release_id": 419358287,
+      "last_notified_release_published_at": "2026-10-21T09:13:53Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -78,8 +78,8 @@
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 415892097,
-      "last_notified_release_published_at": "2026-10-17T15:53:59Z"
+      "last_notified_release_id": 419375018,
+      "last_notified_release_published_at": "2026-10-21T09:32:06Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -90,8 +90,8 @@
     "tickernelz/opencode-mem": {
       "full_name": "tickernelz/opencode-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 416407027,
-      "last_notified_release_published_at": "2026-10-18T11:21:51Z"
+      "last_notified_release_id": 419015168,
+      "last_notified_release_published_at": "2026-10-21T00:35:28Z"
     },
     "supermemoryai/supermemory": {
       "full_name": "supermemoryai/supermemory",
@@ -132,8 +132,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 418666482,
-      "last_notified_release_published_at": "2026-10-20T17:18:01Z"
+      "last_notified_release_id": 419699650,
+      "last_notified_release_published_at": "2026-10-21T15:06:34Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -162,8 +162,8 @@
     "thedotmack/claude-mem": {
       "full_name": "thedotmack/claude-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 418917722,
-      "last_notified_release_published_at": "2026-10-20T21:52:33Z"
+      "last_notified_release_id": 418952960,
+      "last_notified_release_published_at": "2026-10-20T22:40:29Z"
     },
     "luongnv89/claude-howto": {
       "full_name": "luongnv89/claude-howto",
@@ -174,8 +174,8 @@
     "Yeachan-Heo/oh-my-claudecode": {
       "full_name": "Yeachan-Heo/oh-my-claudecode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 416292135,
-      "last_notified_release_published_at": "2026-10-18T07:02:02Z"
+      "last_notified_release_id": 420053596,
+      "last_notified_release_published_at": "2026-10-21T21:02:58Z"
     },
     "lonr-6/cc-desktop-switch": {
       "full_name": "lonr-6/cc-desktop-switch",
@@ -204,8 +204,8 @@
     "farion1231/cc-switch": {
       "full_name": "farion1231/cc-switch",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 418494935,
-      "last_notified_release_published_at": "2026-10-20T14:27:44Z"
+      "last_notified_release_id": 419779287,
+      "last_notified_release_published_at": "2026-10-21T16:16:23Z"
     },
     "anthropics/skills": {
       "full_name": "anthropics/skills",
@@ -222,8 +222,8 @@
     "obra/superpowers": {
       "full_name": "obra/superpowers",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 408452378,
-      "last_notified_release_published_at": "2026-10-10T00:28:58Z"
+      "last_notified_release_id": 420055538,
+      "last_notified_release_published_at": "2026-10-21T21:05:11Z"
     },
     "eze-is/web-access": {
       "full_name": "eze-is/web-access",
@@ -234,8 +234,8 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 418512580,
-      "last_notified_release_published_at": "2026-10-20T14:44:16Z"
+      "last_notified_release_id": 419235362,
+      "last_notified_release_published_at": "2026-10-21T06:42:52Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
@@ -408,8 +408,8 @@
     "byJoey/Actions-bbr-v3": {
       "full_name": "byJoey/Actions-bbr-v3",
       "tracked_since": "2026-07-22T04:13:15.231Z",
-      "last_notified_release_id": 414796657,
-      "last_notified_release_published_at": "2026-10-16T09:56:22Z"
+      "last_notified_release_id": 419538751,
+      "last_notified_release_published_at": "2026-10-21T12:36:23Z"
     },
     "ibsgss/TcpQuality": {
       "full_name": "ibsgss/TcpQuality",
@@ -540,8 +540,8 @@
     "z-mio/parse_hub_bot": {
       "full_name": "z-mio/parse_hub_bot",
       "tracked_since": "2026-09-02T21:37:19.839Z",
-      "last_notified_release_id": 418681515,
-      "last_notified_release_published_at": "2026-10-20T17:34:42Z"
+      "last_notified_release_id": 419404834,
+      "last_notified_release_published_at": "2026-10-21T10:05:51Z"
     },
     "huilang-me/CF-Server-Monitor": {
       "full_name": "huilang-me/CF-Server-Monitor",
@@ -564,8 +564,8 @@
     "jlcodes99/cockpit-tools": {
       "full_name": "jlcodes99/cockpit-tools",
       "tracked_since": "2026-09-06T21:05:47.982Z",
-      "last_notified_release_id": 418742459,
-      "last_notified_release_published_at": "2026-10-20T19:27:30Z"
+      "last_notified_release_id": 419863534,
+      "last_notified_release_published_at": "2026-10-21T18:16:19Z"
     },
     "aoaostar/legado": {
       "full_name": "aoaostar/legado",
