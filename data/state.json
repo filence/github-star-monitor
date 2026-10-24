@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-10-23T21:53:10.185Z"
+    "last_success_at": "2026-10-24T21:25:26.027Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -24,8 +24,8 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 417825058,
-      "last_notified_release_published_at": "2026-10-19T22:41:40Z"
+      "last_notified_release_id": 422701673,
+      "last_notified_release_published_at": "2026-10-24T14:43:45Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 422118151,
-      "last_notified_release_published_at": "2026-10-23T17:19:22Z"
+      "last_notified_release_id": 422763516,
+      "last_notified_release_published_at": "2026-10-24T13:58:04Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -90,8 +90,8 @@
     "tickernelz/opencode-mem": {
       "full_name": "tickernelz/opencode-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 419015168,
-      "last_notified_release_published_at": "2026-10-21T00:35:28Z"
+      "last_notified_release_id": 422901669,
+      "last_notified_release_published_at": "2026-10-24T18:15:35Z"
     },
     "supermemoryai/supermemory": {
       "full_name": "supermemoryai/supermemory",
@@ -102,8 +102,8 @@
     "alvinunreal/oh-my-opencode-slim": {
       "full_name": "alvinunreal/oh-my-opencode-slim",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 418556729,
-      "last_notified_release_published_at": "2026-10-20T15:26:01Z"
+      "last_notified_release_id": 422770634,
+      "last_notified_release_published_at": "2026-10-24T14:11:43Z"
     },
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
@@ -132,14 +132,14 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 422175813,
-      "last_notified_release_published_at": "2026-10-23T18:25:13Z"
+      "last_notified_release_id": 422775717,
+      "last_notified_release_published_at": "2026-10-24T14:21:11Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 421471719,
-      "last_notified_release_published_at": "2026-10-23T05:10:51Z"
+      "last_notified_release_id": 422708846,
+      "last_notified_release_published_at": "2026-10-24T12:08:10Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -174,8 +174,8 @@
     "Yeachan-Heo/oh-my-claudecode": {
       "full_name": "Yeachan-Heo/oh-my-claudecode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 421906876,
-      "last_notified_release_published_at": "2026-10-23T13:57:30Z"
+      "last_notified_release_id": 422858565,
+      "last_notified_release_published_at": "2026-10-24T16:52:54Z"
     },
     "lonr-6/cc-desktop-switch": {
       "full_name": "lonr-6/cc-desktop-switch",
@@ -204,8 +204,8 @@
     "farion1231/cc-switch": {
       "full_name": "farion1231/cc-switch",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 421836743,
-      "last_notified_release_published_at": "2026-10-23T12:49:37Z"
+      "last_notified_release_id": 422815964,
+      "last_notified_release_published_at": "2026-10-24T15:32:07Z"
     },
     "anthropics/skills": {
       "full_name": "anthropics/skills",
@@ -366,8 +366,8 @@
     "komari-monitor/komari": {
       "full_name": "komari-monitor/komari",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 421637313,
-      "last_notified_release_published_at": "2026-10-23T09:02:43Z"
+      "last_notified_release_id": 422615957,
+      "last_notified_release_published_at": "2026-10-24T08:45:25Z"
     },
     "anysearch-ai/anysearch-skill": {
       "full_name": "anysearch-ai/anysearch-skill",
@@ -402,8 +402,8 @@
     "binaricat/Netcatty": {
       "full_name": "binaricat/Netcatty",
       "tracked_since": "2026-07-22T04:13:15.231Z",
-      "last_notified_release_id": 416389239,
-      "last_notified_release_published_at": "2026-10-18T10:43:34Z"
+      "last_notified_release_id": 422900688,
+      "last_notified_release_published_at": "2026-10-24T18:14:05Z"
     },
     "byJoey/Actions-bbr-v3": {
       "full_name": "byJoey/Actions-bbr-v3",
@@ -522,8 +522,8 @@
     "enfein/mieru": {
       "full_name": "enfein/mieru",
       "tracked_since": "2026-08-21T19:26:17.630Z",
-      "last_notified_release_id": 409291371,
-      "last_notified_release_published_at": "2026-10-11T00:46:14Z"
+      "last_notified_release_id": 422367223,
+      "last_notified_release_published_at": "2026-10-23T22:36:03Z"
     },
     "cedar2025/Xboard": {
       "full_name": "cedar2025/Xboard",
@@ -564,8 +564,8 @@
     "jlcodes99/cockpit-tools": {
       "full_name": "jlcodes99/cockpit-tools",
       "tracked_since": "2026-09-06T21:05:47.982Z",
-      "last_notified_release_id": 419863534,
-      "last_notified_release_published_at": "2026-10-21T18:16:19Z"
+      "last_notified_release_id": 422717606,
+      "last_notified_release_published_at": "2026-10-24T12:57:08Z"
     },
     "aoaostar/legado": {
       "full_name": "aoaostar/legado",
@@ -582,8 +582,8 @@
     "codewhale-hq/Codewhale": {
       "full_name": "codewhale-hq/Codewhale",
       "tracked_since": "2026-10-06T00:37:04.101Z",
-      "last_notified_release_id": 406324562,
-      "last_notified_release_published_at": "2026-10-08T01:47:44Z"
+      "last_notified_release_id": 422878556,
+      "last_notified_release_published_at": "2026-10-24T17:31:14Z"
     },
     "huangxd-/danmu_api": {
       "full_name": "huangxd-/danmu_api",
