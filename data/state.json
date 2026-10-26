@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-10-25T21:29:26.477Z"
+    "last_success_at": "2026-10-26T23:02:49.024Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -24,8 +24,8 @@
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 423274793,
-      "last_notified_release_published_at": "2026-10-25T09:05:53Z"
+      "last_notified_release_id": 424223333,
+      "last_notified_release_published_at": "2026-10-26T12:29:15Z"
     },
     "nextlevelbuilder/ui-ux-pro-max-skill": {
       "full_name": "nextlevelbuilder/ui-ux-pro-max-skill",
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 423175256,
-      "last_notified_release_published_at": "2026-10-25T05:51:22Z"
+      "last_notified_release_id": 423899948,
+      "last_notified_release_published_at": "2026-10-26T05:54:56Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -60,8 +60,8 @@
     "icebear0828/codex-proxy": {
       "full_name": "icebear0828/codex-proxy",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 421140422,
-      "last_notified_release_published_at": "2026-10-22T19:56:02Z"
+      "last_notified_release_id": 424614891,
+      "last_notified_release_published_at": "2026-10-26T18:29:39Z"
     },
     "BenedictKing/ccx": {
       "full_name": "BenedictKing/ccx",
@@ -72,8 +72,8 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 421293780,
-      "last_notified_release_published_at": "2026-10-22T23:58:45Z"
+      "last_notified_release_id": 424752699,
+      "last_notified_release_published_at": "2026-10-26T21:25:50Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
@@ -114,8 +114,8 @@
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 421325791,
-      "last_notified_release_published_at": "2026-10-23T00:45:34Z"
+      "last_notified_release_id": 423752016,
+      "last_notified_release_published_at": "2026-10-26T00:48:10Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -132,8 +132,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 423491580,
-      "last_notified_release_published_at": "2026-10-25T15:37:22Z"
+      "last_notified_release_id": 424448628,
+      "last_notified_release_published_at": "2026-10-26T15:49:33Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -174,8 +174,8 @@
     "Yeachan-Heo/oh-my-claudecode": {
       "full_name": "Yeachan-Heo/oh-my-claudecode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 423008067,
-      "last_notified_release_published_at": "2026-10-24T22:06:45Z"
+      "last_notified_release_id": 424368142,
+      "last_notified_release_published_at": "2026-10-26T14:42:05Z"
     },
     "lonr-6/cc-desktop-switch": {
       "full_name": "lonr-6/cc-desktop-switch",
@@ -204,8 +204,8 @@
     "farion1231/cc-switch": {
       "full_name": "farion1231/cc-switch",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 422815964,
-      "last_notified_release_published_at": "2026-10-24T15:32:07Z"
+      "last_notified_release_id": 424304992,
+      "last_notified_release_published_at": "2026-10-26T13:47:11Z"
     },
     "anthropics/skills": {
       "full_name": "anthropics/skills",
@@ -234,8 +234,8 @@
     "esengine/DeepSeek-Reasonix": {
       "full_name": "esengine/DeepSeek-Reasonix",
       "tracked_since": "2026-05-29T01:26:31.514Z",
-      "last_notified_release_id": 423007759,
-      "last_notified_release_published_at": "2026-10-24T22:06:05Z"
+      "last_notified_release_id": 423753686,
+      "last_notified_release_published_at": "2026-10-26T00:35:05Z"
     },
     "proma-ai/Proma": {
       "full_name": "proma-ai/Proma",
@@ -366,8 +366,8 @@
     "komari-monitor/komari": {
       "full_name": "komari-monitor/komari",
       "tracked_since": "2026-07-07T04:45:25.557Z",
-      "last_notified_release_id": 422615957,
-      "last_notified_release_published_at": "2026-10-24T08:45:25Z"
+      "last_notified_release_id": 423875476,
+      "last_notified_release_published_at": "2026-10-26T05:04:29Z"
     },
     "anysearch-ai/anysearch-skill": {
       "full_name": "anysearch-ai/anysearch-skill",
@@ -402,8 +402,8 @@
     "binaricat/Netcatty": {
       "full_name": "binaricat/Netcatty",
       "tracked_since": "2026-07-22T04:13:15.231Z",
-      "last_notified_release_id": 423467538,
-      "last_notified_release_published_at": "2026-10-25T14:54:56Z"
+      "last_notified_release_id": 423897817,
+      "last_notified_release_published_at": "2026-10-26T05:51:24Z"
     },
     "byJoey/Actions-bbr-v3": {
       "full_name": "byJoey/Actions-bbr-v3",
@@ -474,8 +474,8 @@
     "nxtrace/NTrace-core": {
       "full_name": "nxtrace/NTrace-core",
       "tracked_since": "2026-08-13T03:23:44.427Z",
-      "last_notified_release_id": 390871106,
-      "last_notified_release_published_at": "2026-10-11T08:34:35Z"
+      "last_notified_release_id": 413846902,
+      "last_notified_release_published_at": "2026-10-26T14:51:46Z"
     },
     "deepseek-ai/deepseek-harness": {
       "full_name": "deepseek-ai/deepseek-harness",
@@ -534,8 +534,8 @@
     "ike-sh/NoBrand-OneClick": {
       "full_name": "ike-sh/NoBrand-OneClick",
       "tracked_since": "2026-08-29T02:00:04.952Z",
-      "last_notified_release_id": 420696124,
-      "last_notified_release_published_at": "2026-10-22T12:29:47Z"
+      "last_notified_release_id": 424060045,
+      "last_notified_release_published_at": "2026-10-26T09:35:04Z"
     },
     "z-mio/parse_hub_bot": {
       "full_name": "z-mio/parse_hub_bot",
