@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-11-12T23:59:04.562Z"
+    "last_success_at": "2026-11-14T00:13:01.175Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -18,8 +18,8 @@
     "NousResearch/hermes-agent": {
       "full_name": "NousResearch/hermes-agent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 439803874,
-      "last_notified_release_published_at": "2026-11-10T01:42:15Z"
+      "last_notified_release_id": 443902808,
+      "last_notified_release_published_at": "2026-11-13T08:06:48Z"
     },
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 442119745,
-      "last_notified_release_published_at": "2026-11-11T19:25:26Z"
+      "last_notified_release_id": 444636749,
+      "last_notified_release_published_at": "2026-11-13T19:14:59Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -78,8 +78,8 @@
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 443058267,
-      "last_notified_release_published_at": "2026-11-12T14:37:46Z"
+      "last_notified_release_id": 444759873,
+      "last_notified_release_published_at": "2026-11-13T21:44:22Z"
     },
     "tanweai/pua": {
       "full_name": "tanweai/pua",
@@ -108,8 +108,8 @@
     "anomalyco/opencode": {
       "full_name": "anomalyco/opencode",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 442212713,
-      "last_notified_release_published_at": "2026-11-11T21:34:04Z"
+      "last_notified_release_id": 444009048,
+      "last_notified_release_published_at": "2026-11-13T08:55:07Z"
     },
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
@@ -294,8 +294,8 @@
     "mvanhorn/last30days-skill": {
       "full_name": "mvanhorn/last30days-skill",
       "tracked_since": "2026-06-12T05:27:47.839Z",
-      "last_notified_release_id": 443488984,
-      "last_notified_release_published_at": "2026-11-12T20:45:33Z"
+      "last_notified_release_id": 444827323,
+      "last_notified_release_published_at": "2026-11-13T23:03:32Z"
     },
     "nashsu/llm_wiki": {
       "full_name": "nashsu/llm_wiki",
@@ -480,8 +480,8 @@
     "deepseek-ai/deepseek-harness": {
       "full_name": "deepseek-ai/deepseek-harness",
       "tracked_since": "2026-08-15T02:10:43.744Z",
-      "last_notified_release_id": 441607356,
-      "last_notified_release_published_at": "2026-11-11T11:33:06Z"
+      "last_notified_release_id": 443956880,
+      "last_notified_release_published_at": "2026-11-13T07:56:55Z"
     },
     "pmman289/link42": {
       "full_name": "pmman289/link42",
@@ -516,8 +516,8 @@
     "ike-sh/bbrv3-lite": {
       "full_name": "ike-sh/bbrv3-lite",
       "tracked_since": "2026-08-21T19:26:17.630Z",
-      "last_notified_release_id": 388866062,
-      "last_notified_release_published_at": "2026-09-15T04:24:22Z"
+      "last_notified_release_id": 444223547,
+      "last_notified_release_published_at": "2026-11-13T12:49:07Z"
     },
     "enfein/mieru": {
       "full_name": "enfein/mieru",
@@ -564,8 +564,8 @@
     "jlcodes99/cockpit-tools": {
       "full_name": "jlcodes99/cockpit-tools",
       "tracked_since": "2026-09-06T21:05:47.982Z",
-      "last_notified_release_id": 443117237,
-      "last_notified_release_published_at": "2026-11-12T16:14:49Z"
+      "last_notified_release_id": 444285521,
+      "last_notified_release_published_at": "2026-11-13T16:51:33Z"
     },
     "aoaostar/legado": {
       "full_name": "aoaostar/legado",
@@ -576,8 +576,8 @@
     "EKKOLearnAI/ekko-studio": {
       "full_name": "EKKOLearnAI/ekko-studio",
       "tracked_since": "2026-09-22T21:49:40.302Z",
-      "last_notified_release_id": 441320184,
-      "last_notified_release_published_at": "2026-11-11T06:43:34Z"
+      "last_notified_release_id": 444305640,
+      "last_notified_release_published_at": "2026-11-13T14:08:16Z"
     },
     "codewhale-hq/Codewhale": {
       "full_name": "codewhale-hq/Codewhale",
