@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-11-14T22:53:04.153Z"
+    "last_success_at": "2026-11-15T23:19:24.650Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -18,8 +18,8 @@
     "NousResearch/hermes-agent": {
       "full_name": "NousResearch/hermes-agent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 445082016,
-      "last_notified_release_published_at": "2026-11-14T07:46:34Z"
+      "last_notified_release_id": 445864731,
+      "last_notified_release_published_at": "2026-11-15T07:52:37Z"
     },
     "liliMozi/openhanako": {
       "full_name": "liliMozi/openhanako",
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 445112535,
-      "last_notified_release_published_at": "2026-11-14T07:29:39Z"
+      "last_notified_release_id": 445889819,
+      "last_notified_release_published_at": "2026-11-15T07:42:40Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -72,8 +72,8 @@
     "edison7009/EchoBird": {
       "full_name": "edison7009/EchoBird",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 444964536,
-      "last_notified_release_published_at": "2026-11-14T03:13:22Z"
+      "last_notified_release_id": 445444777,
+      "last_notified_release_published_at": "2026-11-14T23:43:03Z"
     },
     "BigPizzaV3/CodexPlusPlus": {
       "full_name": "BigPizzaV3/CodexPlusPlus",
@@ -114,8 +114,8 @@
     "openchamber/openchamber": {
       "full_name": "openchamber/openchamber",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 443580016,
-      "last_notified_release_published_at": "2026-11-12T22:43:34Z"
+      "last_notified_release_id": 445739052,
+      "last_notified_release_published_at": "2026-11-15T02:17:12Z"
     },
     "lsdefine/GenericAgent": {
       "full_name": "lsdefine/GenericAgent",
@@ -132,14 +132,14 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 445544720,
-      "last_notified_release_published_at": "2026-11-14T19:41:47Z"
+      "last_notified_release_id": 446137792,
+      "last_notified_release_published_at": "2026-11-15T14:59:30Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 445103176,
-      "last_notified_release_published_at": "2026-11-14T07:15:14Z"
+      "last_notified_release_id": 446392877,
+      "last_notified_release_published_at": "2026-11-15T21:51:26Z"
     },
     "clash-verge-rev/clash-verge-rev": {
       "full_name": "clash-verge-rev/clash-verge-rev",
@@ -162,8 +162,8 @@
     "thedotmack/claude-mem": {
       "full_name": "thedotmack/claude-mem",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 443377304,
-      "last_notified_release_published_at": "2026-11-12T18:53:05Z"
+      "last_notified_release_id": 446259065,
+      "last_notified_release_published_at": "2026-11-15T18:10:20Z"
     },
     "luongnv89/claude-howto": {
       "full_name": "luongnv89/claude-howto",
@@ -258,8 +258,8 @@
     "alchaincyf/darwin-skill": {
       "full_name": "alchaincyf/darwin-skill",
       "tracked_since": "2026-06-03T06:00:18.263Z",
-      "last_notified_release_id": 445620043,
-      "last_notified_release_published_at": "2026-11-14T22:02:10Z"
+      "last_notified_release_id": 445662936,
+      "last_notified_release_published_at": "2026-11-14T23:14:36Z"
     },
     "via007/bilibili-rag": {
       "full_name": "via007/bilibili-rag",
@@ -294,8 +294,8 @@
     "mvanhorn/last30days-skill": {
       "full_name": "mvanhorn/last30days-skill",
       "tracked_since": "2026-06-12T05:27:47.839Z",
-      "last_notified_release_id": 444827323,
-      "last_notified_release_published_at": "2026-11-13T23:03:32Z"
+      "last_notified_release_id": 446404147,
+      "last_notified_release_published_at": "2026-11-15T22:11:23Z"
     },
     "nashsu/llm_wiki": {
       "full_name": "nashsu/llm_wiki",
@@ -312,14 +312,14 @@
     "jnMetaCode/superpowers-zh": {
       "full_name": "jnMetaCode/superpowers-zh",
       "tracked_since": "2026-06-16T06:29:50.570Z",
-      "last_notified_release_id": 398703947,
-      "last_notified_release_published_at": "2026-09-28T23:30:31Z"
+      "last_notified_release_id": 445739280,
+      "last_notified_release_published_at": "2026-11-15T01:42:32Z"
     },
     "notesynchelper/shoujidiannao": {
       "full_name": "notesynchelper/shoujidiannao",
       "tracked_since": "2026-06-18T05:52:04.211Z",
-      "last_notified_release_id": 441151810,
-      "last_notified_release_published_at": "2026-11-11T02:02:44Z"
+      "last_notified_release_id": 445744698,
+      "last_notified_release_published_at": "2026-11-15T01:55:04Z"
     },
     "garden-cosmos/natural-chinese-protocol": {
       "full_name": "garden-cosmos/natural-chinese-protocol",
@@ -564,8 +564,8 @@
     "jlcodes99/cockpit-tools": {
       "full_name": "jlcodes99/cockpit-tools",
       "tracked_since": "2026-09-06T21:05:47.982Z",
-      "last_notified_release_id": 445029387,
-      "last_notified_release_published_at": "2026-11-14T06:26:07Z"
+      "last_notified_release_id": 445884466,
+      "last_notified_release_published_at": "2026-11-15T08:06:18Z"
     },
     "aoaostar/legado": {
       "full_name": "aoaostar/legado",
@@ -576,8 +576,8 @@
     "EKKOLearnAI/ekko-studio": {
       "full_name": "EKKOLearnAI/ekko-studio",
       "tracked_since": "2026-09-22T21:49:40.302Z",
-      "last_notified_release_id": 445163123,
-      "last_notified_release_published_at": "2026-11-14T09:01:16Z"
+      "last_notified_release_id": 445887694,
+      "last_notified_release_published_at": "2026-11-15T07:37:44Z"
     },
     "codewhale-hq/Codewhale": {
       "full_name": "codewhale-hq/Codewhale",
