@@ -1,6 +1,6 @@
 {
   "global": {
-    "last_success_at": "2026-11-27T02:02:21.616Z"
+    "last_success_at": "2026-11-28T01:47:09.817Z"
   },
   "repos": {
     "colbymchenry/codegraph": {
@@ -48,8 +48,8 @@
     "NeuralNomadsAI/CodeNomad": {
       "full_name": "NeuralNomadsAI/CodeNomad",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 459289982,
-      "last_notified_release_published_at": "2026-11-26T10:58:45Z"
+      "last_notified_release_id": 461218182,
+      "last_notified_release_published_at": "2026-11-28T01:35:50Z"
     },
     "luestr/ProxyResource": {
       "full_name": "luestr/ProxyResource",
@@ -132,8 +132,8 @@
     "router-for-me/CLIProxyAPI": {
       "full_name": "router-for-me/CLIProxyAPI",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 459694345,
-      "last_notified_release_published_at": "2026-11-26T17:02:37Z"
+      "last_notified_release_id": 460741115,
+      "last_notified_release_published_at": "2026-11-27T14:57:22Z"
     },
     "code-yeongyu/oh-my-openagent": {
       "full_name": "code-yeongyu/oh-my-openagent",
@@ -204,8 +204,8 @@
     "farion1231/cc-switch": {
       "full_name": "farion1231/cc-switch",
       "tracked_since": "2026-05-28T08:26:51.318Z",
-      "last_notified_release_id": 459595388,
-      "last_notified_release_published_at": "2026-11-26T15:29:48Z"
+      "last_notified_release_id": 460801154,
+      "last_notified_release_published_at": "2026-11-27T15:51:55Z"
     },
     "anthropics/skills": {
       "full_name": "anthropics/skills",
@@ -294,8 +294,8 @@
     "mvanhorn/last30days-skill": {
       "full_name": "mvanhorn/last30days-skill",
       "tracked_since": "2026-06-12T05:27:47.839Z",
-      "last_notified_release_id": 459921124,
-      "last_notified_release_published_at": "2026-11-26T21:30:00Z"
+      "last_notified_release_id": 460169483,
+      "last_notified_release_published_at": "2026-11-27T04:32:24Z"
     },
     "nashsu/llm_wiki": {
       "full_name": "nashsu/llm_wiki",
@@ -348,8 +348,8 @@
     "2dust/v2rayN": {
       "full_name": "2dust/v2rayN",
       "tracked_since": "2026-07-04T04:30:27.773Z",
-      "last_notified_release_id": 454377195,
-      "last_notified_release_published_at": "2026-11-22T10:48:58Z"
+      "last_notified_release_id": 460086121,
+      "last_notified_release_published_at": "2026-11-27T02:12:24Z"
     },
     "mattpocock/skills": {
       "full_name": "mattpocock/skills",
@@ -492,8 +492,8 @@
     "shanyang242/Komari-Theme-LuminaPlus": {
       "full_name": "shanyang242/Komari-Theme-LuminaPlus",
       "tracked_since": "2026-08-18T19:27:45.306Z",
-      "last_notified_release_id": 446566798,
-      "last_notified_release_published_at": "2026-11-16T03:13:03Z"
+      "last_notified_release_id": 460271744,
+      "last_notified_release_published_at": "2026-11-27T07:15:55Z"
     },
     "stqfdyr/komari-theme-Lumina": {
       "full_name": "stqfdyr/komari-theme-Lumina",
@@ -564,8 +564,8 @@
     "jlcodes99/cockpit-tools": {
       "full_name": "jlcodes99/cockpit-tools",
       "tracked_since": "2026-09-06T21:05:47.982Z",
-      "last_notified_release_id": 459540661,
-      "last_notified_release_published_at": "2026-11-26T16:00:25Z"
+      "last_notified_release_id": 460559569,
+      "last_notified_release_published_at": "2026-11-27T13:26:12Z"
     },
     "aoaostar/legado": {
       "full_name": "aoaostar/legado",
@@ -606,14 +606,14 @@
     "elviscjn-cjn/antigravity-context-viewer": {
       "full_name": "elviscjn-cjn/antigravity-context-viewer",
       "tracked_since": "2026-11-26T02:03:26.782Z",
-      "last_notified_release_id": null,
-      "last_notified_release_published_at": null
+      "last_notified_release_id": 461218928,
+      "last_notified_release_published_at": "2026-11-28T01:37:32Z"
     },
     "crhywun/g1-acq": {
       "full_name": "crhywun/g1-acq",
       "tracked_since": "2026-11-27T02:02:21.616Z",
-      "last_notified_release_id": null,
-      "last_notified_release_published_at": null
+      "last_notified_release_id": 460352029,
+      "last_notified_release_published_at": "2026-11-27T08:50:19Z"
     }
   }
 }
